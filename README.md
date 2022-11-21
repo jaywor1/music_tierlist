@@ -24,7 +24,7 @@ Můj subjektivní tier list na hudební alba, která jsem slyšel.
 | Viktor Sheen | Barvy | <img src="https://user-images.githubusercontent.com/103755136/200171577-5f838dca-058d-430f-99a9-26314841556f.png" alt="Image not found" width="128" height="128"/> | 2020 | Hip hop/Trap
 | Nightwish | Once | <img src="https://user-images.githubusercontent.com/103755136/201498210-24fa892e-6943-4769-82c1-9ff8097e4be3.png" alt="Image not found" width="128" height="128"/> | 2004 | 	Symphonic metal
 | Metallica | Ride The Lightning | <img src="https://user-images.githubusercontent.com/103755136/203146477-535ba9a7-54ff-408e-a37e-2ce958770de0.png" alt="Image not found" width="128" height="128"/> | 1984 | Thrash metal
-
+| Lil peep | Come Over When You're Sober, Pt. 1 | <img src="https://user-images.githubusercontent.com/103755136/203151648-93969dbe-d5c0-45d6-91d9-62df23c7dbc1.png" alt="Image not found" width="128" height="128"/> | 2017 | Emo rap/Pop funk
 
 ## B tier
 
