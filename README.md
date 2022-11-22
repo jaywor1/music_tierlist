@@ -23,7 +23,6 @@ My **subjective** tier list on albums/EPs.
 | Redzed | Bohemian Psycho | <img src="https://user-images.githubusercontent.com/103755136/200171478-9b1bdd17-901d-49ab-8460-0c088257ff1b.png" alt="Image not found" width="128" height="128"/> | 2019 | Dark Trap
 | Viktor Sheen | Barvy | <img src="https://user-images.githubusercontent.com/103755136/200171577-5f838dca-058d-430f-99a9-26314841556f.png" alt="Image not found" width="128" height="128"/> | 2020 | Hip hop/Trap
 | Lil Peep & Lil Tracy | CASTLES II | <img src="https://user-images.githubusercontent.com/103755136/203418321-5500f3fa-6f7b-4231-bc79-41efb6e41b2a.png" alt="Image not found" width="128" height="128"/> | 2021 | Emo rap
-
 | Nightwish | Once | <img src="https://user-images.githubusercontent.com/103755136/201498210-24fa892e-6943-4769-82c1-9ff8097e4be3.png" alt="Image not found" width="128" height="128"/> | 2004 | 	Symphonic metal
 | Metallica | Ride The Lightning | <img src="https://user-images.githubusercontent.com/103755136/203146477-535ba9a7-54ff-408e-a37e-2ce958770de0.png" alt="Image not found" width="128" height="128"/> | 1984 | Thrash metal
 
