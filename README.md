@@ -15,13 +15,14 @@ My **subjective** tier list on albums/EPs.
 ## A tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre
 |----------|:-------------:|------:|------:|------:|
-| Hasan |  Prototyp: Upgrade | ![image](https://user-images.githubusercontent.com/103755136/200119659-4187b377-c318-4d63-9329-3ed9dca474a7.png)| 2021 | Alternative hip hop
+| Kanye West |  Graduation | <img src="https://user-images.githubusercontent.com/103755136/204095509-0711b58d-bfd3-4428-a322-56ace2701d4d.png" alt="Image not found" width="128" height="128"/> | 2007 | Alternative hip hop/Progressive rap
 | Lil Peep | Come Over When You're Sober, Pt. 1 | <img src="https://user-images.githubusercontent.com/103755136/203151648-93969dbe-d5c0-45d6-91d9-62df23c7dbc1.png" alt="Image not found" width="128" height="128"/> | 2017 | Emo rap/Pop funk
 | Rest |  Restart | ![image](https://user-images.githubusercontent.com/103755136/200119773-b5b6b68b-8da2-4abf-9d61-44afc04434b9.png)| 2018 | Hip hop
 | Kanye West | My Beautiful Dark Twisted Fantasy | <img src="https://user-images.githubusercontent.com/103755136/204093197-17116546-35f2-431e-ace9-afed3bdf83a7.png" alt="Image not found" width="128" height="128"/> | 2010 | Progressive rap/Rap opera
 | Linkin Park | Hybrid Theory | <img src="https://user-images.githubusercontent.com/103755136/200171257-990042a0-cea6-4bd9-89f0-a272d62f29de.png" alt="Image not found" width="128" height="128"/> | 2000 | Nu metal/Rap metal
 | Deep Purple | Made In Japan |  <img src="https://user-images.githubusercontent.com/103755136/200171359-0b5c6b86-54fe-4bee-ba18-15619bb3a5fd.png" alt="Image not found" width="128" height="128"/> | 2021 | Hard rock/Heavy metal
 | Metallica | Ride The Lightning | <img src="https://user-images.githubusercontent.com/103755136/203146477-535ba9a7-54ff-408e-a37e-2ce958770de0.png" alt="Image not found" width="128" height="128"/> | 1984 | Thrash metal
+| Hasan |  Prototyp: Upgrade | ![image](https://user-images.githubusercontent.com/103755136/200119659-4187b377-c318-4d63-9329-3ed9dca474a7.png)| 2021 | Alternative hip hop
 | Redzed | Bohemian Psycho | <img src="https://user-images.githubusercontent.com/103755136/200171478-9b1bdd17-901d-49ab-8460-0c088257ff1b.png" alt="Image not found" width="128" height="128"/> | 2019 | Dark Trap
 | Viktor Sheen | Barvy | <img src="https://user-images.githubusercontent.com/103755136/200171577-5f838dca-058d-430f-99a9-26314841556f.png" alt="Image not found" width="128" height="128"/> | 2020 | Hip hop/Trap
 | Lil Peep & Lil Tracy | CASTLES II | <img src="https://user-images.githubusercontent.com/103755136/203418321-5500f3fa-6f7b-4231-bc79-41efb6e41b2a.png" alt="Image not found" width="128" height="128"/> | 2021 | Emo rap
