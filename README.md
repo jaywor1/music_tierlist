@@ -30,9 +30,9 @@ My **subjective** tier list on albums/EPs.
 
 
 ## B tier
-
 | Author   |      Album/EP      |  Album Cover | Year | Genre
 |----------|:-------------:|------:|------:|------:|
+| Suicideboys | My Liver Will Handle What My Heart Can't | <img src="https://user-images.githubusercontent.com/103755136/204095643-030997f3-c24a-4dc8-b620-978c9dcf1719.png" alt="Image not found" width="128" height="128"/> | 2015 | Hororcore/Trap metal 
 | Yzomandias |  J. EDEN E-GEN | ![image](https://user-images.githubusercontent.com/103755136/200119604-0bffd032-fd54-44ba-b22e-cfd82e83a013.png)| 2021 | Trap
 | Arctic Monkeys |  AM | ![image](https://user-images.githubusercontent.com/103755136/200119696-db265c24-9bca-4566-8986-eaaea00b3dab.png)| 2013 | Indie rock
 | Hasan |  Oceán | ![image](https://user-images.githubusercontent.com/103755136/200119738-d0d14f37-bb0c-40a8-a471-a7a5d7b77931.png)| 2016 | Alternative hip hop
