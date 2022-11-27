@@ -40,7 +40,7 @@ My **subjective** tier list on albums/EPs.
 | Hasan |  Oceán | ![image](https://user-images.githubusercontent.com/103755136/200119738-d0d14f37-bb0c-40a8-a471-a7a5d7b77931.png)| 2016 | Alternative hip hop
 | True Gabe | Vulture Culture |  <img src="https://user-images.githubusercontent.com/103755136/200171322-0ff62c0d-0865-405a-9c97-a14f80697e4a.png" alt="Image not found" width="128" height="128"/> | 2021 | Rap/EDM
 | Bring Me The Horizon | That's The Spirit | <img src="https://user-images.githubusercontent.com/103755136/200171440-55550a0d-424b-4fb0-9cd8-8fbf68e802e9.png" alt="Image not found" width="128" height="128"/> | 2015 | Alternative rock/Electronic rock
-| Stein27 | Teorie pádu | <img src="https://user-images.githubusercontent.com/103755136/201498121-e87a2eee-b931-4953-9ebb-f7449a425eac.png" alt="Image not found" width="128" height="128"/> | 2020 | Alternative hip hop/Emo rap
+| Stein27 | Teorie pádu | <img src="https://user-images.githubusercontent.com/103755136/201498121-e87a2eee-b931-4953-9ebb-f7449a425eac.png" alt="Image not found" width="128" height="128"/> | 2020 | Rap metal/Emo rap
 | Amon Amarth | Fate of Norns | <img src="https://user-images.githubusercontent.com/103755136/201498180-6b12c2ec-a7b8-4d90-bc99-6f6c2e92ed76.png" alt="Image not found" width="128" height="128"/> | 2004 | Melodic death metal
 
 ## C tier
