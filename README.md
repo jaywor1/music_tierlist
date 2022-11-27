@@ -19,6 +19,7 @@ My **subjective** tier list on albums/EPs.
 | Lil Peep | Come Over When You're Sober, Pt. 1 | <img src="https://user-images.githubusercontent.com/103755136/203151648-93969dbe-d5c0-45d6-91d9-62df23c7dbc1.png" alt="Image not found" width="128" height="128"/> | 2017 | Emo rap/Pop funk
 | Rest |  Restart | ![image](https://user-images.githubusercontent.com/103755136/200119773-b5b6b68b-8da2-4abf-9d61-44afc04434b9.png)| 2018 | Hip hop
 | Kanye West | My Beautiful Dark Twisted Fantasy | <img src="https://user-images.githubusercontent.com/103755136/204093197-17116546-35f2-431e-ace9-afed3bdf83a7.png" alt="Image not found" width="128" height="128"/> | 2010 | Progressive rap/Rap opera
+| Rest & DJ Wich | Tlak | <img src="https://user-images.githubusercontent.com/103755136/204138930-193d8bfb-4619-4cb8-8220-04df54cb0551.png" alt="Image not found" width="128" height="128"/> | 2022 | Hip hop
 | Linkin Park | Hybrid Theory | <img src="https://user-images.githubusercontent.com/103755136/200171257-990042a0-cea6-4bd9-89f0-a272d62f29de.png" alt="Image not found" width="128" height="128"/> | 2000 | Nu metal/Rap metal
 | Deep Purple | Made In Japan |  <img src="https://user-images.githubusercontent.com/103755136/200171359-0b5c6b86-54fe-4bee-ba18-15619bb3a5fd.png" alt="Image not found" width="128" height="128"/> | 2021 | Hard rock/Heavy metal
 | Metallica | Ride The Lightning | <img src="https://user-images.githubusercontent.com/103755136/203146477-535ba9a7-54ff-408e-a37e-2ce958770de0.png" alt="Image not found" width="128" height="128"/> | 1984 | Thrash metal
@@ -28,11 +29,11 @@ My **subjective** tier list on albums/EPs.
 | Lil Peep & Lil Tracy | CASTLES II | <img src="https://user-images.githubusercontent.com/103755136/203418321-5500f3fa-6f7b-4231-bc79-41efb6e41b2a.png" alt="Image not found" width="128" height="128"/> | 2021 | Emo rap
 | Nightwish | Once | <img src="https://user-images.githubusercontent.com/103755136/201498210-24fa892e-6943-4769-82c1-9ff8097e4be3.png" alt="Image not found" width="128" height="128"/> | 2004 | 	Symphonic metal
 
-
 ## B tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre
 |----------|:-------------:|------:|------:|------:|
 | Suicideboys | My Liver Will Handle What My Heart Can't | <img src="https://user-images.githubusercontent.com/103755136/204095643-030997f3-c24a-4dc8-b620-978c9dcf1719.png" alt="Image not found" width="128" height="128"/> | 2015 | Hororcore/Trap metal 
+| Dorian | Everyday is May | <img src="https://user-images.githubusercontent.com/103755136/204139162-b1b24358-37ff-4148-ad9a-3d7dbd86d8c1.png" alt="Image not found" width="128" height="128"/> | 2022 | Progressive rap/Trap
 | Yzomandias |  J. EDEN E-GEN | ![image](https://user-images.githubusercontent.com/103755136/200119604-0bffd032-fd54-44ba-b22e-cfd82e83a013.png)| 2021 | Trap
 | Arctic Monkeys |  AM | ![image](https://user-images.githubusercontent.com/103755136/200119696-db265c24-9bca-4566-8986-eaaea00b3dab.png)| 2013 | Indie rock
 | Hasan |  Oceán | ![image](https://user-images.githubusercontent.com/103755136/200119738-d0d14f37-bb0c-40a8-a471-a7a5d7b77931.png)| 2016 | Alternative hip hop
