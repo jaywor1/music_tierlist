@@ -22,6 +22,7 @@ My **subjective** tier list on albums/EPs.
 | Kanye West | My Beautiful Dark Twisted Fantasy | <img src="https://user-images.githubusercontent.com/103755136/204093197-17116546-35f2-431e-ace9-afed3bdf83a7.png" alt="Image not found" width="128" height="128"/> | 2010 | Progressive rap/Rap opera
 | Rest & DJ Wich | Tlak | <img src="https://user-images.githubusercontent.com/103755136/204138930-193d8bfb-4619-4cb8-8220-04df54cb0551.png" alt="Image not found" width="128" height="128"/> | 2022 | Hip hop
 | Metallica | Ride The Lightning | <img src="https://user-images.githubusercontent.com/103755136/203146477-535ba9a7-54ff-408e-a37e-2ce958770de0.png" alt="Image not found" width="128" height="128"/> | 1984 | Thrash metal
+| Kanye West | Yeezus | <img src="https://user-images.githubusercontent.com/103755136/204618073-7e4365c6-49c7-4a21-9f48-cc0605973a46.png" alt="Image not found" width="128" height="128"/> | 2013 | Experimental/Alternative rap
 | Linkin Park | Hybrid Theory | <img src="https://user-images.githubusercontent.com/103755136/200171257-990042a0-cea6-4bd9-89f0-a272d62f29de.png" alt="Image not found" width="128" height="128"/> | 2000 | Nu metal/Rap metal
 | Deep Purple | Made In Japan |  <img src="https://user-images.githubusercontent.com/103755136/200171359-0b5c6b86-54fe-4bee-ba18-15619bb3a5fd.png" alt="Image not found" width="128" height="128"/> | 2021 | Hard rock/Heavy metal
 | Hasan |  Prototyp: Upgrade | ![image](https://user-images.githubusercontent.com/103755136/200119659-4187b377-c318-4d63-9329-3ed9dca474a7.png)| 2021 | Alternative hip hop
