@@ -39,7 +39,7 @@ My **subjective** tier list on albums/EPs.
 | Yzomandias |  J. EDEN E-GEN | ![image](https://user-images.githubusercontent.com/103755136/200119604-0bffd032-fd54-44ba-b22e-cfd82e83a013.png)| 2021 | Trap
 | Arctic Monkeys |  AM | ![image](https://user-images.githubusercontent.com/103755136/200119696-db265c24-9bca-4566-8986-eaaea00b3dab.png)| 2013 | Indie rock
 | Hasan |  Oceán | ![image](https://user-images.githubusercontent.com/103755136/200119738-d0d14f37-bb0c-40a8-a471-a7a5d7b77931.png)| 2016 | Alternative hip hop
-| True Gabe | Vulture Culture |  <img src="https://user-images.githubusercontent.com/103755136/200171322-0ff62c0d-0865-405a-9c97-a14f80697e4a.png" alt="Image not found" width="128" height="128"/> | 2021 | Rap/EDM
+| True Gabe | Vulture Culture |  <img src="https://user-images.githubusercontent.com/103755136/200171322-0ff62c0d-0865-405a-9c97-a14f80697e4a.png" alt="Image not found" width="128" height="128"/> | 2021 | Rap/EDM Rap
 | Bring Me The Horizon | That's The Spirit | <img src="https://user-images.githubusercontent.com/103755136/200171440-55550a0d-424b-4fb0-9cd8-8fbf68e802e9.png" alt="Image not found" width="128" height="128"/> | 2015 | Alternative rock/Electronic rock
 | Stein27 | Teorie pádu | <img src="https://user-images.githubusercontent.com/103755136/201498121-e87a2eee-b931-4953-9ebb-f7449a425eac.png" alt="Image not found" width="128" height="128"/> | 2020 | Rap metal/Emo rap
 | Amon Amarth | Fate of Norns | <img src="https://user-images.githubusercontent.com/103755136/201498180-6b12c2ec-a7b8-4d90-bc99-6f6c2e92ed76.png" alt="Image not found" width="128" height="128"/> | 2004 | Melodic death metal
@@ -50,6 +50,7 @@ My **subjective** tier list on albums/EPs.
 |----------|:-------------:|------:|------:|------:|
 | Yzomandias |  Zhora Vypadá Všechno Líp | ![image](https://user-images.githubusercontent.com/103755136/200119829-612c4034-c30d-4267-928b-6a0eb29e5876.png)| 2018 | Hip hop
 | CA$HANOVA BULHAR |  Romeo | ![image](https://user-images.githubusercontent.com/103755136/200119418-29379619-b27d-4278-8cb4-70daa5f7d4f9.png)| 2021 | Hip hop/Trap
+| True Gabe |  Přijdu Soon | <img src="https://user-images.githubusercontent.com/103755136/204633077-6e8f79a5-4151-4c87-9915-cbbfa707a0a4.png" alt="Image not found" width="128" height="128"/> | 2019 | EDM Rap/Trap
 | Call Me Karizma | The Gloomy Tapes, Vol. 1 | <img src="https://user-images.githubusercontent.com/103755136/200171399-f7db6618-8962-493c-bfc5-46638d8525ad.png" alt="Image not found" width="128" height="128"/> | 2018 | Emo rap/Minnesota
 | Call me Karizma |  The Gloomy Tapes, Vol. 2 | <img src="https://user-images.githubusercontent.com/103755136/201498478-ca18913a-082e-419b-9cef-86b263ba81ef.png" alt="Image not found" width="128" height="128"/>| 2019 | Pop rap
 
