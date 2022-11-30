@@ -39,6 +39,7 @@ My **subjective** tier list on albums/EPs.
 | Dorian | Everyday is May | <img src="https://user-images.githubusercontent.com/103755136/204139162-b1b24358-37ff-4148-ad9a-3d7dbd86d8c1.png" alt="Image not found" width="128" height="128"/> | 2022 | Progressive rap/Trap
 | Yzomandias |  J. EDEN E-GEN | ![image](https://user-images.githubusercontent.com/103755136/200119604-0bffd032-fd54-44ba-b22e-cfd82e83a013.png)| 2021 | Trap
 | Arctic Monkeys |  AM | ![image](https://user-images.githubusercontent.com/103755136/200119696-db265c24-9bca-4566-8986-eaaea00b3dab.png)| 2013 | Indie rock
+| Hasan |  Echo | <img src="https://user-images.githubusercontent.com/103755136/204890969-6f30b33d-0f2b-46f8-9755-a160f41bb7ce.png" alt="Image not found" width="128" height="128"/>| 2021 | Only instrumental/beats
 | Hasan |  Oceán | ![image](https://user-images.githubusercontent.com/103755136/200119738-d0d14f37-bb0c-40a8-a471-a7a5d7b77931.png)| 2016 | Alternative hip hop
 | True Gabe | Vulture Culture |  <img src="https://user-images.githubusercontent.com/103755136/200171322-0ff62c0d-0865-405a-9c97-a14f80697e4a.png" alt="Image not found" width="128" height="128"/> | 2021 | Rap/EDM Rap
 | Bring Me The Horizon | That's The Spirit | <img src="https://user-images.githubusercontent.com/103755136/200171440-55550a0d-424b-4fb0-9cd8-8fbf68e802e9.png" alt="Image not found" width="128" height="128"/> | 2015 | Alternative rock/Electronic rock
