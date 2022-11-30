@@ -16,10 +16,10 @@ My **subjective** tier list on albums/EPs.
 | Author   |      Album/EP      |  Album Cover | Year | Genre
 |----------|:----:|---------------------:|------:|------:|
 | Hasan |  Album, co mi změnilo život (Další rozměr) | <img src="https://user-images.githubusercontent.com/103755136/204161578-ce456e49-77b9-4a87-bf7c-09804e30230e.png" alt="Image not found" width="128" height="128"/> | 2022 | Alternative hip hop
+| Kanye West | My Beautiful Dark Twisted Fantasy | <img src="https://user-images.githubusercontent.com/103755136/204093197-17116546-35f2-431e-ace9-afed3bdf83a7.png" alt="Image not found" width="128" height="128"/> | 2010 | Progressive rap/Rap opera
 | Kanye West |  Graduation | <img src="https://user-images.githubusercontent.com/103755136/204095509-0711b58d-bfd3-4428-a322-56ace2701d4d.png" alt="Image not found" width="128" height="128"/> | 2007 | Alternative hip hop/Progressive rap
 | Lil Peep | Come Over When You're Sober, Pt. 1 | <img src="https://user-images.githubusercontent.com/103755136/203151648-93969dbe-d5c0-45d6-91d9-62df23c7dbc1.png" alt="Image not found" width="128" height="128"/> | 2017 | Emo rap/Pop funk
 | Rest |  Restart | ![image](https://user-images.githubusercontent.com/103755136/200119773-b5b6b68b-8da2-4abf-9d61-44afc04434b9.png)| 2018 | Hip hop
-| Kanye West | My Beautiful Dark Twisted Fantasy | <img src="https://user-images.githubusercontent.com/103755136/204093197-17116546-35f2-431e-ace9-afed3bdf83a7.png" alt="Image not found" width="128" height="128"/> | 2010 | Progressive rap/Rap opera
 | Rest & DJ Wich | Tlak | <img src="https://user-images.githubusercontent.com/103755136/204138930-193d8bfb-4619-4cb8-8220-04df54cb0551.png" alt="Image not found" width="128" height="128"/> | 2022 | Hip hop
 | Metallica | Ride The Lightning | <img src="https://user-images.githubusercontent.com/103755136/203146477-535ba9a7-54ff-408e-a37e-2ce958770de0.png" alt="Image not found" width="128" height="128"/> | 1984 | Thrash metal
 | Kanye West | Yeezus | <img src="https://user-images.githubusercontent.com/103755136/204618073-7e4365c6-49c7-4a21-9f48-cc0605973a46.png" alt="Image not found" width="128" height="128"/> | 2013 | Experimental/Alternative rap
