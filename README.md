@@ -5,6 +5,7 @@ My **subjective** tier list on albums/EPs.
 | Author   |      Album/EP      |  Album Cover | Year | Genre
 |----------|:-------------:|------:|------:|------:|
 | Hasan |  Hasan | ![image](https://user-images.githubusercontent.com/103755136/200119073-84584937-0286-4070-8974-6530c5b286ea.png)| 2019 | Alternative hip hop
+| Metallica | Ride The Lightning | <img src="https://user-images.githubusercontent.com/103755136/203146477-535ba9a7-54ff-408e-a37e-2ce958770de0.png" alt="Image not found" width="128" height="128"/> | 1984 | Thrash metal
 | Metallica | Metallica | <img src="https://user-images.githubusercontent.com/103755136/201498140-d4e26bcf-7564-4e7b-b817-c34463788d77.png" alt="Image not found" width="128" height="128"/> | 1991 | Heavy metal
 | Rammstein | Mutter | <img src="https://user-images.githubusercontent.com/103755136/200171198-76ef3e12-fdeb-4623-97ec-c3db8c4f75ce.png" alt="Image not found" width="128" height="128"/> | 2001 | Industrial metal/NDH
 | System Of A Down |    Toxicity   |   ![image](https://user-images.githubusercontent.com/103755136/200119295-f1496907-fe88-417c-a72e-a2bbae7a45a7.png) | 2001 | Nu metal/Alternative metal
@@ -21,7 +22,6 @@ My **subjective** tier list on albums/EPs.
 | Lil Peep | Come Over When You're Sober, Pt. 1 | <img src="https://user-images.githubusercontent.com/103755136/203151648-93969dbe-d5c0-45d6-91d9-62df23c7dbc1.png" alt="Image not found" width="128" height="128"/> | 2017 | Emo rap/Pop funk
 | Rest |  Restart | ![image](https://user-images.githubusercontent.com/103755136/200119773-b5b6b68b-8da2-4abf-9d61-44afc04434b9.png)| 2018 | Hip hop
 | Rest & DJ Wich | Tlak | <img src="https://user-images.githubusercontent.com/103755136/204138930-193d8bfb-4619-4cb8-8220-04df54cb0551.png" alt="Image not found" width="128" height="128"/> | 2022 | Hip hop
-| Metallica | Ride The Lightning | <img src="https://user-images.githubusercontent.com/103755136/203146477-535ba9a7-54ff-408e-a37e-2ce958770de0.png" alt="Image not found" width="128" height="128"/> | 1984 | Thrash metal
 | Kanye West | Yeezus | <img src="https://user-images.githubusercontent.com/103755136/204618073-7e4365c6-49c7-4a21-9f48-cc0605973a46.png" alt="Image not found" width="128" height="128"/> | 2013 | Experimental/Alternative rap
 | Linkin Park | Hybrid Theory | <img src="https://user-images.githubusercontent.com/103755136/200171257-990042a0-cea6-4bd9-89f0-a272d62f29de.png" alt="Image not found" width="128" height="128"/> | 2000 | Nu metal/Rap metal
 | Deep Purple | Made In Japan |  <img src="https://user-images.githubusercontent.com/103755136/200171359-0b5c6b86-54fe-4bee-ba18-15619bb3a5fd.png" alt="Image not found" width="128" height="128"/> | 2021 | Hard rock/Heavy metal
