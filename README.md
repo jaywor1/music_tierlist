@@ -8,6 +8,7 @@ My **subjective** tier list on albums/EPs.
 | Metallica | Ride The Lightning | <img src="https://user-images.githubusercontent.com/103755136/203146477-535ba9a7-54ff-408e-a37e-2ce958770de0.png" alt="Image not found" width="128" height="128"/> | 1984 | Thrash metal
 | Metallica | Metallica | <img src="https://user-images.githubusercontent.com/103755136/201498140-d4e26bcf-7564-4e7b-b817-c34463788d77.png" alt="Image not found" width="128" height="128"/> | 1991 | Heavy metal
 | Rammstein | Mutter | <img src="https://user-images.githubusercontent.com/103755136/200171198-76ef3e12-fdeb-4623-97ec-c3db8c4f75ce.png" alt="Image not found" width="128" height="128"/> | 2001 | Industrial metal/NDH
+| Led Zeppelin | Led Zeppelin | <img src="https://user-images.githubusercontent.com/103755136/206241233-7916fcbb-c16b-4e7a-98b7-b2fba9ac75f5.png" alt="Image not found" width="128" height="128"/> | 1969 | Blues rock/Hard rock
 | System Of A Down |    Toxicity   |   ![image](https://user-images.githubusercontent.com/103755136/200119295-f1496907-fe88-417c-a72e-a2bbae7a45a7.png) | 2001 | Nu metal/Alternative metal
 | Linkin Park | Meteora | ![image](https://user-images.githubusercontent.com/103755136/200120011-1ea7e2cc-6e32-46f5-b8bd-edb998a89ba7.png) | 2003 | Nu metal
 | Guns N' Roses | Use Your Illusion I | ![image](https://user-images.githubusercontent.com/103755136/200119940-804d3f50-21bb-4211-82ed-9ada6bf7aaae.png)| 1991 | Hard rock
