@@ -2,8 +2,8 @@
 My **subjective** tier list on albums/EPs.
 
 ## S tier
-| Author   |      Album/EP      |  Album Cover | Year | Genre
-|----------|:-------------:|------:|------:|------:|
+| Author   |      Album/EP      |  Album Cover | Year | Genre |
+|:--------:|:------------------:|:------------:|:----:|:-----:|
 | Hasan |  Hasan | ![image](https://user-images.githubusercontent.com/103755136/200119073-84584937-0286-4070-8974-6530c5b286ea.png)| 2019 | Alternative hip hop
 | Metallica | Ride The Lightning | <img src="https://user-images.githubusercontent.com/103755136/203146477-535ba9a7-54ff-408e-a37e-2ce958770de0.png" alt="Image not found" width="128" height="128"/> | 1984 | Thrash metal
 | Metallica | Metallica | <img src="https://user-images.githubusercontent.com/103755136/201498140-d4e26bcf-7564-4e7b-b817-c34463788d77.png" alt="Image not found" width="128" height="128"/> | 1991 | Heavy metal
@@ -15,8 +15,8 @@ My **subjective** tier list on albums/EPs.
 | Deep Purple | Perfect Strangers | ![image](https://user-images.githubusercontent.com/103755136/200119902-dbc635b6-58c3-4225-9e39-c178d3ef0c46.png)| 1984 | Hard rock/Heavy metal
 
 ## A tier
-| Author   |      Album/EP      |  Album Cover | Year | Genre
-|----------|:----:|---------------------:|------:|------:|
+| Author   |      Album/EP      |  Album Cover | Year | Genre |
+|:--------:|:------------------:|:------------:|:----:|:-----:|
 | Hasan |  Album, co mi změnilo život (Další rozměr) | <img src="https://user-images.githubusercontent.com/103755136/204161578-ce456e49-77b9-4a87-bf7c-09804e30230e.png" alt="Image not found" width="128" height="128"/> | 2022 | Alternative hip hop
 | Kanye West | My Beautiful Dark Twisted Fantasy | <img src="https://user-images.githubusercontent.com/103755136/204093197-17116546-35f2-431e-ace9-afed3bdf83a7.png" alt="Image not found" width="128" height="128"/> | 2010 | Progressive rap/Rap opera
 | Rammstein | REISE, REISE | <img src="https://user-images.githubusercontent.com/103755136/206209469-ac994f76-92e3-40a0-a1c2-71a6f04bd0aa.png" alt="Image not found" width="128" height="128"/> | 2004 | Industrial metal/NDH
@@ -35,8 +35,8 @@ My **subjective** tier list on albums/EPs.
 | Nightwish | Once | <img src="https://user-images.githubusercontent.com/103755136/201498210-24fa892e-6943-4769-82c1-9ff8097e4be3.png" alt="Image not found" width="128" height="128"/> | 2004 | 	Symphonic metal
 
 ## B tier
-| Author   |      Album/EP      |  Album Cover | Year | Genre
-|----------|:----:|---------------------:|------:|------:|
+| Author   |      Album/EP      |  Album Cover | Year | Genre |
+|:--------:|:------------------:|:------------:|:----:|:-----:|
 | Suicideboys | My Liver Will Handle What My Heart Can't | <img src="https://user-images.githubusercontent.com/103755136/204095643-030997f3-c24a-4dc8-b620-978c9dcf1719.png" alt="Image not found" width="128" height="128"/> | 2015 | Hororcore/Trap metal 
 | Dorian | Everyday is May | <img src="https://user-images.githubusercontent.com/103755136/204139162-b1b24358-37ff-4148-ad9a-3d7dbd86d8c1.png" alt="Image not found" width="128" height="128"/> | 2022 | Progressive rap/Trap
 | Yzomandias |  J. EDEN E-GEN | ![image](https://user-images.githubusercontent.com/103755136/200119604-0bffd032-fd54-44ba-b22e-cfd82e83a013.png)| 2021 | Trap
@@ -50,8 +50,8 @@ My **subjective** tier list on albums/EPs.
 
 ## C tier
 
-| Author   |      Album/EP      |  Album Cover | Year | Genre
-|----------|:----:|---------------------:|------:|------:|
+| Author   |      Album/EP      |  Album Cover | Year | Genre |
+|:--------:|:------------------:|:------------:|:----:|:-----:|
 | Yzomandias |  Zhora Vypadá Všechno Líp | ![image](https://user-images.githubusercontent.com/103755136/200119829-612c4034-c30d-4267-928b-6a0eb29e5876.png)| 2018 | Hip hop
 | CA$HANOVA BULHAR |  Romeo | ![image](https://user-images.githubusercontent.com/103755136/200119418-29379619-b27d-4278-8cb4-70daa5f7d4f9.png)| 2021 | Hip hop/Trap
 | True Gabe |  Přijdu Soon | <img src="https://user-images.githubusercontent.com/103755136/204633077-6e8f79a5-4151-4c87-9915-cbbfa707a0a4.png" alt="Image not found" width="128" height="128"/> | 2019 | EDM Rap/Trap
@@ -62,13 +62,13 @@ My **subjective** tier list on albums/EPs.
 
 ## D tier
 
-| Author   |      Album/EP      |  Album Cover | Year | Genre
-|----------|:----:|---------------------:|------:|------:|
+| Author   |      Album/EP      |  Album Cover | Year | Genre |
+|:--------:|:------------------:|:------------:|:----:|:-----:|
 | Suicideboys | DIRTYNASTY$UICIDE | <img src="https://user-images.githubusercontent.com/103755136/203419270-d495814c-2034-45b8-8600-06c05e92c515.png" alt="Image not found" width="128" height="128"/> | 2016 | Hororcore
 | PTK |  TRAPPIN LONELY | <img src="https://user-images.githubusercontent.com/103755136/201498076-0feaa512-e5fd-43ea-b2a0-4cf149e160d7.png" alt="Image not found" width="128" height="128"/>| 2022 | Trap/Emo rap
 
 
 ## F tier
-| Author   |      Album/EP      |  Album Cover | Year | Genre
-|----------|:----:|---------------------:|------:|------:|
+| Author   |      Album/EP      |  Album Cover | Year | Genre |
+|:--------:|:------------------:|:------------:|:----:|:-----:|
 | Schyzo |  V. Patro | <img src="https://user-images.githubusercontent.com/103755136/201498046-934f10cc-9e7c-487f-b8ae-6a712516f9d8.png" alt="Image not found" width="128" height="128"/>| 2022 | Hip hop/Emo rap
