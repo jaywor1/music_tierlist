@@ -38,6 +38,7 @@ My **subjective** tier list on albums/EPs.
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | Suicideboys | My Liver Will Handle What My Heart Can't | <img src="https://user-images.githubusercontent.com/103755136/204095643-030997f3-c24a-4dc8-b620-978c9dcf1719.png" alt="Image not found" width="128" height="128"/> | 2015 | Hororcore/Trap metal 
+| Suicideboys | I Want to Die in New Orleans | <img src="https://user-images.githubusercontent.com/103755136/206500859-a513f5d0-b6fb-4e9d-a71f-4d505528844b.png" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap/Hardocore hip hop
 | Dorian | Everyday is May | <img src="https://user-images.githubusercontent.com/103755136/204139162-b1b24358-37ff-4148-ad9a-3d7dbd86d8c1.png" alt="Image not found" width="128" height="128"/> | 2022 | Progressive rap/Trap
 | Yzomandias |  J. EDEN E-GEN | ![image](https://user-images.githubusercontent.com/103755136/200119604-0bffd032-fd54-44ba-b22e-cfd82e83a013.png)| 2021 | Trap
 | Arctic Monkeys |  AM | ![image](https://user-images.githubusercontent.com/103755136/200119696-db265c24-9bca-4566-8986-eaaea00b3dab.png)| 2013 | Indie rock
