@@ -56,6 +56,7 @@ My **subjective** tier list on albums/EPs.
 | Yzomandias |  Zhora Vypadá Všechno Líp | ![image](https://user-images.githubusercontent.com/103755136/200119829-612c4034-c30d-4267-928b-6a0eb29e5876.png)| 2018 | Hip hop
 | CA$HANOVA BULHAR |  Romeo | ![image](https://user-images.githubusercontent.com/103755136/200119418-29379619-b27d-4278-8cb4-70daa5f7d4f9.png)| 2021 | Hip hop/Trap
 | True Gabe |  Přijdu Soon | <img src="https://user-images.githubusercontent.com/103755136/204633077-6e8f79a5-4151-4c87-9915-cbbfa707a0a4.png" alt="Image not found" width="128" height="128"/> | 2019 | EDM Rap/Trap
+| Kylof Söze | Tales From The Tri | <img src="https://user-images.githubusercontent.com/103755136/206711458-d07bcf76-a684-45dc-84b2-e5ed9774a866.png" alt="Image not found" width="128" height="128"/> | 2020 | Aesthetic rap/Trap rap
 | Call Me Karizma | The Gloomy Tapes, Vol. 1 | <img src="https://user-images.githubusercontent.com/103755136/200171399-f7db6618-8962-493c-bfc5-46638d8525ad.png" alt="Image not found" width="128" height="128"/> | 2018 | Emo rap/Minnesota
 | Call me Karizma |  The Gloomy Tapes, Vol. 2 | <img src="https://user-images.githubusercontent.com/103755136/201498478-ca18913a-082e-419b-9cef-86b263ba81ef.png" alt="Image not found" width="128" height="128"/>| 2019 | Pop rap
 
