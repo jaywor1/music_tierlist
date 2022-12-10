@@ -4,7 +4,6 @@ My **subjective** tier list on albums/EPs.
 ## S tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| Hasan |  Hasan | ![image](https://user-images.githubusercontent.com/103755136/200119073-84584937-0286-4070-8974-6530c5b286ea.png)| 2019 | Alternative hip hop
 | Metallica | Ride The Lightning | <img src="https://user-images.githubusercontent.com/103755136/203146477-535ba9a7-54ff-408e-a37e-2ce958770de0.png" alt="Image not found" width="128" height="128"/> | 1984 | Thrash metal
 | Metallica | Metallica | <img src="https://user-images.githubusercontent.com/103755136/201498140-d4e26bcf-7564-4e7b-b817-c34463788d77.png" alt="Image not found" width="128" height="128"/> | 1991 | Heavy metal
 | Rammstein | Mutter | <img src="https://user-images.githubusercontent.com/103755136/200171198-76ef3e12-fdeb-4623-97ec-c3db8c4f75ce.png" alt="Image not found" width="128" height="128"/> | 2001 | Industrial metal/NDH
@@ -21,6 +20,7 @@ My **subjective** tier list on albums/EPs.
 | Kanye West | My Beautiful Dark Twisted Fantasy | <img src="https://user-images.githubusercontent.com/103755136/204093197-17116546-35f2-431e-ace9-afed3bdf83a7.png" alt="Image not found" width="128" height="128"/> | 2010 | Progressive rap/Rap opera
 | Rammstein | REISE, REISE | <img src="https://user-images.githubusercontent.com/103755136/206209469-ac994f76-92e3-40a0-a1c2-71a6f04bd0aa.png" alt="Image not found" width="128" height="128"/> | 2004 | Industrial metal/NDH
 | Kanye West |  Graduation | <img src="https://user-images.githubusercontent.com/103755136/204095509-0711b58d-bfd3-4428-a322-56ace2701d4d.png" alt="Image not found" width="128" height="128"/> | 2007 | Alternative hip hop/Progressive rap
+| Hasan |  Hasan | ![image](https://user-images.githubusercontent.com/103755136/200119073-84584937-0286-4070-8974-6530c5b286ea.png)| 2019 | Alternative hip hop
 | Lil Peep | Come Over When You're Sober, Pt. 1 | <img src="https://user-images.githubusercontent.com/103755136/203151648-93969dbe-d5c0-45d6-91d9-62df23c7dbc1.png" alt="Image not found" width="128" height="128"/> | 2017 | Emo rap/Pop funk
 | Rest |  Restart | ![image](https://user-images.githubusercontent.com/103755136/200119773-b5b6b68b-8da2-4abf-9d61-44afc04434b9.png)| 2018 | Hip hop
 | Rest & DJ Wich | Tlak | <img src="https://user-images.githubusercontent.com/103755136/204138930-193d8bfb-4619-4cb8-8220-04df54cb0551.png" alt="Image not found" width="128" height="128"/> | 2022 | Hip hop
