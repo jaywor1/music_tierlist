@@ -26,7 +26,7 @@ My **subjective** tier list on albums/EPs.
 | Rest |  Restart | ![image](https://user-images.githubusercontent.com/103755136/200119773-b5b6b68b-8da2-4abf-9d61-44afc04434b9.png)| 2018 | Hip hop
 | Rest & DJ Wich | Tlak | <img src="https://user-images.githubusercontent.com/103755136/204138930-193d8bfb-4619-4cb8-8220-04df54cb0551.png" alt="Image not found" width="128" height="128"/> | 2022 | Hip hop
 | Kanye West | Yeezus | <img src="https://user-images.githubusercontent.com/103755136/204618073-7e4365c6-49c7-4a21-9f48-cc0605973a46.png" alt="Image not found" width="128" height="128"/> | 2013 | Experimental/Alternative rap
-| Deep Purple | Made In Japan |  <img src="https://user-images.githubusercontent.com/103755136/200171359-0b5c6b86-54fe-4bee-ba18-15619bb3a5fd.png" alt="Image not found" width="128" height="128"/> | 2021 | Hard rock/Heavy metal
+| Deep Purple | Made In Japan |  <img src="https://user-images.githubusercontent.com/103755136/200171359-0b5c6b86-54fe-4bee-ba18-15619bb3a5fd.png" alt="Image not found" width="128" height="128"/> | 1972 | Hard rock/Heavy metal
 | Arctic Monkeys |  AM | ![image](https://user-images.githubusercontent.com/103755136/200119696-db265c24-9bca-4566-8986-eaaea00b3dab.png)| 2013 | Indie rock
 | Hasan |  Prototyp: Upgrade | ![image](https://user-images.githubusercontent.com/103755136/200119659-4187b377-c318-4d63-9329-3ed9dca474a7.png)| 2021 | Alternative hip hop
 | Redzed | Bohemian Psycho | <img src="https://user-images.githubusercontent.com/103755136/200171478-9b1bdd17-901d-49ab-8460-0c088257ff1b.png" alt="Image not found" width="128" height="128"/> | 2019 | Dark Trap
