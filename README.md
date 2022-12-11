@@ -1,5 +1,6 @@
 # Music Tier List
 My **subjective** tier list on albums/EPs.
+### Album count: 47
 
 ## S tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
