@@ -1,6 +1,6 @@
 # Music Tier List
 My **subjective** tier list on albums/EPs.
-### Album/EP count: 48
+### Album/EP count: 49
 
 ## S tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
@@ -36,12 +36,12 @@ My **subjective** tier list on albums/EPs.
 | Linkin Park | Hybrid Theory | <img src="https://user-images.githubusercontent.com/103755136/200171257-990042a0-cea6-4bd9-89f0-a272d62f29de.png" alt="Image not found" width="128" height="128"/> | 2000 | Nu metal/Rap metal
 | Lil Peep & Lil Tracy | CASTLES II | <img src="https://user-images.githubusercontent.com/103755136/203418321-5500f3fa-6f7b-4231-bc79-41efb6e41b2a.png" alt="Image not found" width="128" height="128"/> | 2021 | Emo rap
 | Nightwish | Once | <img src="https://user-images.githubusercontent.com/103755136/201498210-24fa892e-6943-4769-82c1-9ff8097e4be3.png" alt="Image not found" width="128" height="128"/> | 2004 | 	Symphonic metal
-
 ## B tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | Suicideboys | My Liver Will Handle What My Heart Can't | <img src="https://user-images.githubusercontent.com/103755136/204095643-030997f3-c24a-4dc8-b620-978c9dcf1719.png" alt="Image not found" width="128" height="128"/> | 2015 | Hororcore/Trap metal 
 | Suicideboys | I Want to Die in New Orleans | <img src="https://user-images.githubusercontent.com/103755136/206500859-a513f5d0-b6fb-4e9d-a71f-4d505528844b.png" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap/Hardocore hip hop
+| Suicideboys | $outh $ide $uicide | <img src="https://user-images.githubusercontent.com/103755136/207963415-7a650dd3-8e30-440f-bc0d-a73a50a221a4.png" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap
 | Dorian | Everyday is May | <img src="https://user-images.githubusercontent.com/103755136/204139162-b1b24358-37ff-4148-ad9a-3d7dbd86d8c1.png" alt="Image not found" width="128" height="128"/> | 2022 | Progressive rap/Trap
 | Yzomandias |  J. EDEN E-GEN | ![image](https://user-images.githubusercontent.com/103755136/200119604-0bffd032-fd54-44ba-b22e-cfd82e83a013.png)| 2021 | Trap
 | Hasan |  Echo | <img src="https://user-images.githubusercontent.com/103755136/204890969-6f30b33d-0f2b-46f8-9755-a160f41bb7ce.png" alt="Image not found" width="128" height="128"/>| 2021 | Only instrumental/beats
