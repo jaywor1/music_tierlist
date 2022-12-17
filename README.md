@@ -1,6 +1,6 @@
 # Music Tier List
 My **subjective** tier list on albums/EPs.
-### Album/EP count: 49
+### Album/EP count: 50
 
 ## S tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
@@ -21,6 +21,7 @@ My **subjective** tier list on albums/EPs.
 | Kanye West | My Beautiful Dark Twisted Fantasy | <img src="https://user-images.githubusercontent.com/103755136/204093197-17116546-35f2-431e-ace9-afed3bdf83a7.png" alt="Image not found" width="128" height="128"/> | 2010 | Progressive rap/Rap opera
 | Rammstein | REISE, REISE | <img src="https://user-images.githubusercontent.com/103755136/206209469-ac994f76-92e3-40a0-a1c2-71a6f04bd0aa.png" alt="Image not found" width="128" height="128"/> | 2004 | Industrial metal/NDH
 | Ghostemane |  ANTI-ICON | <img src="https://user-images.githubusercontent.com/103755136/207961326-6f311740-8b22-410e-9de6-aeaa538ee84e.png" alt="Image not found" width="128" height="128"/> | 2020 | Hardcore punk/Rap metal
+| ASAP Rocky |  TESTING | <img src="https://user-images.githubusercontent.com/103755136/208244567-2a0b7bc3-2c88-4eef-a43f-f381c56764b0.png" alt="Image not found" width="128" height="128"/> | 2018 | Experimental hip hop
 | Kanye West |  Graduation | <img src="https://user-images.githubusercontent.com/103755136/204095509-0711b58d-bfd3-4428-a322-56ace2701d4d.png" alt="Image not found" width="128" height="128"/> | 2007 | Alternative hip hop/Progressive rap
 | Hasan |  Hasan | ![image](https://user-images.githubusercontent.com/103755136/200119073-84584937-0286-4070-8974-6530c5b286ea.png)| 2019 | Alternative hip hop
 | Lil Peep | Come Over When You're Sober, Pt. 1 | <img src="https://user-images.githubusercontent.com/103755136/203151648-93969dbe-d5c0-45d6-91d9-62df23c7dbc1.png" alt="Image not found" width="128" height="128"/> | 2017 | Emo rap/Pop funk
