@@ -1,6 +1,6 @@
 # Music Tier List
 My **subjective** tier list on albums/EPs.
-### Album/EP count: 51
+### Album/EP count: 52
 
 ## S tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
@@ -65,7 +65,7 @@ My **subjective** tier list on albums/EPs.
 | Kylof Söze | Tales From The Tri | <img src="https://user-images.githubusercontent.com/103755136/206711458-d07bcf76-a684-45dc-84b2-e5ed9774a866.png" alt="Image not found" width="128" height="128"/> | 2020 | Aesthetic rap/Trap rap
 | Call Me Karizma | The Gloomy Tapes, Vol. 1 | <img src="https://user-images.githubusercontent.com/103755136/200171399-f7db6618-8962-493c-bfc5-46638d8525ad.png" alt="Image not found" width="128" height="128"/> | 2018 | Emo rap/Minnesota
 | Call me Karizma |  The Gloomy Tapes, Vol. 2 | <img src="https://user-images.githubusercontent.com/103755136/201498478-ca18913a-082e-419b-9cef-86b263ba81ef.png" alt="Image not found" width="128" height="128"/>| 2019 | Pop rap
-
+| True Gabe & DJ Kadr | BACKSTAGE | <img src="images/BACKSTAGE.jpg" alt="Image not found" width="128" height="128"/> | 2020 | EDM rap/Trap
 
 
 ## D tier
