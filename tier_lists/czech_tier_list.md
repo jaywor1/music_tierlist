@@ -2,6 +2,8 @@
 
 ### Album/EP count: 21
 
+### Authors count: 14
+
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|

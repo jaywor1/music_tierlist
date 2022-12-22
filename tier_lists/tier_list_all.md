@@ -4,6 +4,8 @@
 
 ### Authors count: 33
 
+### Authors count: 33
+
 ## S tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
