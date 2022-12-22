@@ -74,7 +74,13 @@
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | Suicideboys | DIRTYNASTY$UICIDE | <img src="https://user-images.githubusercontent.com/103755136/203419270-d495814c-2034-45b8-8600-06c05e92c515.png" alt="Image not found" width="128" height="128"/> | 2016 | Hororcore
+
+## E tier
+
+| Author   |      Album/EP      |  Album Cover | Year | Genre |
+|:--------:|:------------------:|:------------:|:----:|:-----:|
 | PTK |  TRAPPIN LONELY | <img src="https://user-images.githubusercontent.com/103755136/201498076-0feaa512-e5fd-43ea-b2a0-4cf149e160d7.png" alt="Image not found" width="128" height="128"/>| 2022 | Trap/Emo rap
+
 
 
 ## F tier
