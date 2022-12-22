@@ -1,4 +1,4 @@
-# List of czech musicians
+# Czech tier list
 
 ### Album/EP count: 20
 
