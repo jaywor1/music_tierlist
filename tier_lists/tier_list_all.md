@@ -1,5 +1,5 @@
-# Tier List All
-List of every album/EP I've ever heard
+# List of every album/EP I've ever heard
+
 ### Album/EP count: 53
 
 ## S tier
