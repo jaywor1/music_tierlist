@@ -45,13 +45,13 @@
 | Suicideboys | My Liver Will Handle What My Heart Can't | <img src="https://user-images.githubusercontent.com/103755136/204095643-030997f3-c24a-4dc8-b620-978c9dcf1719.png" alt="Image not found" width="128" height="128"/> | 2015 | Hororcore/Trap metal 
 | Suicideboys | I Want to Die in New Orleans | <img src="https://user-images.githubusercontent.com/103755136/206500859-a513f5d0-b6fb-4e9d-a71f-4d505528844b.png" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap/Hardocore hip hop
 | Hasan |  Echo | <img src="https://user-images.githubusercontent.com/103755136/204890969-6f30b33d-0f2b-46f8-9755-a160f41bb7ce.png" alt="Image not found" width="128" height="128"/>| 2021 | Only instrumental/beats
+| Stein27 | Teorie pádu | <img src="https://user-images.githubusercontent.com/103755136/201498121-e87a2eee-b931-4953-9ebb-f7449a425eac.png" alt="Image not found" width="128" height="128"/> | 2020 | Rap metal/Emo rap
 | Suicideboys | $outh $ide $uicide | <img src="https://user-images.githubusercontent.com/103755136/207963415-7a650dd3-8e30-440f-bc0d-a73a50a221a4.png" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap
-| Dorian | Everyday is May | <img src="https://user-images.githubusercontent.com/103755136/204139162-b1b24358-37ff-4148-ad9a-3d7dbd86d8c1.png" alt="Image not found" width="128" height="128"/> | 2022 | Progressive rap/Trap
-| Yzomandias |  J. EDEN E-GEN | ![image](https://user-images.githubusercontent.com/103755136/200119604-0bffd032-fd54-44ba-b22e-cfd82e83a013.png)| 2021 | Trap
 | Hasan |  Oceán | ![image](https://user-images.githubusercontent.com/103755136/200119738-d0d14f37-bb0c-40a8-a471-a7a5d7b77931.png)| 2016 | Alternative hip hop
 | True Gabe | Vulture Culture |  <img src="https://user-images.githubusercontent.com/103755136/200171322-0ff62c0d-0865-405a-9c97-a14f80697e4a.png" alt="Image not found" width="128" height="128"/> | 2021 | Rap/EDM Rap
+| Dorian | Everyday is May | <img src="https://user-images.githubusercontent.com/103755136/204139162-b1b24358-37ff-4148-ad9a-3d7dbd86d8c1.png" alt="Image not found" width="128" height="128"/> | 2022 | Progressive rap/Trap
+| Yzomandias |  J. EDEN E-GEN | ![image](https://user-images.githubusercontent.com/103755136/200119604-0bffd032-fd54-44ba-b22e-cfd82e83a013.png)| 2021 | Trap/EDM rap
 | Bring Me The Horizon | That's The Spirit | <img src="https://user-images.githubusercontent.com/103755136/200171440-55550a0d-424b-4fb0-9cd8-8fbf68e802e9.png" alt="Image not found" width="128" height="128"/> | 2015 | Alternative rock/Electronic rock
-| Stein27 | Teorie pádu | <img src="https://user-images.githubusercontent.com/103755136/201498121-e87a2eee-b931-4953-9ebb-f7449a425eac.png" alt="Image not found" width="128" height="128"/> | 2020 | Rap metal/Emo rap
 | Ghostemane | Plagues | <img src="https://user-images.githubusercontent.com/103755136/206916275-3808be0b-4715-414d-b9ee-bf2a4f225016.png" alt="Image not found" width="128" height="128"/> | 2016 | Cloud rap/Hardcore hip hop
 | Amon Amarth | Fate of Norns | <img src="https://user-images.githubusercontent.com/103755136/201498180-6b12c2ec-a7b8-4d90-bc99-6f6c2e92ed76.png" alt="Image not found" width="128" height="128"/> | 2004 | Melodic death metal
 
