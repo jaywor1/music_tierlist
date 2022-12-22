@@ -5,7 +5,7 @@
 ## S tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| Hasan | Album, co mi změnilo život (Další rozměr) | <img src="/images/album_co_zmenilo_zivot.jpg" alt="Image not found" width="96" height="96"/> | 2022 | Alternative hip hop
+| Hasan | Album, co mi změnilo život (Další rozměr) | <img src="/images/album_co_mi_zmenilo_zivot_rozmer.jpg" alt="Image not found" width="96" height="96"/> | 2022 | Alternative hip hop
 | Hasan |  Hasan | <img src="/images/hasan.jpg" alt="Image not found" width="96" height="96"/>| 2019 | Alternative hip hop
 | Rest |  Restart |  <img src="/images/restart.jpg" alt="Image not found" width="96" height="96"/>| 2018 | Hip hop
 
