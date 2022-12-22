@@ -22,7 +22,7 @@
 | Korn |  The Serenity of Suffering | <img src="https://user-images.githubusercontent.com/103755136/208310598-90fe4963-64b9-47b1-bae5-af32a9eae118.png" alt="Image not found" width="128" height="128"/> | 2016 | Nu metal/Alternative metal
 | Ghostemane |  ANTI-ICON | <img src="https://user-images.githubusercontent.com/103755136/207961326-6f311740-8b22-410e-9de6-aeaa538ee84e.png" alt="Image not found" width="128" height="128"/> | 2020 | Hardcore punk/Rap metal
 | Hasan |  Album, co mi změnilo život (Další rozměr) | <img src="https://user-images.githubusercontent.com/103755136/204161578-ce456e49-77b9-4a87-bf7c-09804e30230e.png" alt="Image not found" width="128" height="128"/> | 2022 | Alternative hip hop
-| Radiohead |  Kid A | <img src="images/kid_a.jpg" alt="Image not found" width="128" height="128"/> | 2000 | Alternative hip hop/Progressive rap
+| Radiohead |  Kid A | <img src="/images/kid_a.jpg" alt="Image not found" width="128" height="128"/> | 2000 | Alternative hip hop/Progressive rap
 | Kanye West |  Graduation | <img src="https://user-images.githubusercontent.com/103755136/204095509-0711b58d-bfd3-4428-a322-56ace2701d4d.png" alt="Image not found" width="128" height="128"/> | 2007 | Experimental rock/Ambient
 | ASAP Rocky |  TESTING | <img src="https://user-images.githubusercontent.com/103755136/208244567-2a0b7bc3-2c88-4eef-a43f-f381c56764b0.png" alt="Image not found" width="128" height="128"/> | 2018 | Experimental hip hop
 | Hasan |  Hasan | ![image](https://user-images.githubusercontent.com/103755136/200119073-84584937-0286-4070-8974-6530c5b286ea.png)| 2019 | Alternative hip hop
@@ -66,7 +66,7 @@
 | Kylof Söze | Tales From The Tri | <img src="https://user-images.githubusercontent.com/103755136/206711458-d07bcf76-a684-45dc-84b2-e5ed9774a866.png" alt="Image not found" width="128" height="128"/> | 2020 | Aesthetic rap/Trap rap
 | Call Me Karizma | The Gloomy Tapes, Vol. 1 | <img src="https://user-images.githubusercontent.com/103755136/200171399-f7db6618-8962-493c-bfc5-46638d8525ad.png" alt="Image not found" width="128" height="128"/> | 2018 | Emo rap/Minnesota
 | Call me Karizma |  The Gloomy Tapes, Vol. 2 | <img src="https://user-images.githubusercontent.com/103755136/201498478-ca18913a-082e-419b-9cef-86b263ba81ef.png" alt="Image not found" width="128" height="128"/>| 2019 | Pop rap
-| True Gabe & DJ Kadr | BACKSTAGE | <img src="images/backstage.jpg" alt="Image not found" width="128" height="128"/> | 2020 | EDM rap/Trap
+| True Gabe & DJ Kadr | BACKSTAGE | <img src="/images/backstage.jpg" alt="Image not found" width="128" height="128"/> | 2020 | EDM rap/Trap
 
 
 ## D tier
