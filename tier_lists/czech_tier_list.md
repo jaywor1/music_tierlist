@@ -1,8 +1,8 @@
 # Czech tier list
 
-### Album/EP count: 21
+### Album/EP count: 22
 
-### Authors count: 14
+### Authors count: 15
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -25,6 +25,7 @@
 | <img src="/images/echo.jpg" alt="Image not found" width="96" height="96"/> |  Echo | Hasan | 2021 | Only instrumental/beats
 | <img src="/images/teorie_padu.jpg" alt="Image not found" width="96" height="96"/> | Teorie pádu | Stein27 | 2020 | Rap metal/Emo rap
 | <img src="/images/ocean.jpg" alt="Image not found" width="96" height="96"/> |  Oceán | Hasan | 2016 | Alternative hip hop
+| <img src="/images/jentak.jpg" alt="Image not found" width="96" height="96"/> | JENTAK | Ben Cristovao | 2021 | Pop rock/R&B
 
 ## C tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
