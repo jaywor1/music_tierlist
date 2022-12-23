@@ -24,7 +24,7 @@
 | Korn |  The Serenity of Suffering | <img src="https://user-images.githubusercontent.com/103755136/208310598-90fe4963-64b9-47b1-bae5-af32a9eae118.png" alt="Image not found" width="128" height="128"/> | 2016 | Nu metal/Alternative metal
 | Ghostemane |  ANTI-ICON | <img src="https://user-images.githubusercontent.com/103755136/207961326-6f311740-8b22-410e-9de6-aeaa538ee84e.png" alt="Image not found" width="128" height="128"/> | 2020 | Hardcore punk/Rap metal
 | Hasan |  Album, co mi změnilo život (Další rozměr) | <img src="https://user-images.githubusercontent.com/103755136/204161578-ce456e49-77b9-4a87-bf7c-09804e30230e.png" alt="Image not found" width="128" height="128"/> | 2022 | Alternative hip hop
-| Rammstein | Liebe ist für alle da | <img src="/images/liebe_ist_fur_alle_da.jpg" alt="Image not found" width="128" height="128"/> | 2009 | NDH/Industrial metal
+| Rammstein | Liebe ist für alle da | <img src="/images/liebe_ist_fur_alle_da.png" alt="Image not found" width="128" height="128"/> | 2009 | NDH/Industrial metal
 | Radiohead |  Kid A | <img src="/images/kid_a.jpg" alt="Image not found" width="128" height="128"/> | 2000 | Alternative hip hop/Progressive rap
 | Kanye West |  Graduation | <img src="https://user-images.githubusercontent.com/103755136/204095509-0711b58d-bfd3-4428-a322-56ace2701d4d.png" alt="Image not found" width="128" height="128"/> | 2007 | Experimental rock/Ambient
 | ASAP Rocky |  TESTING | <img src="https://user-images.githubusercontent.com/103755136/208244567-2a0b7bc3-2c88-4eef-a43f-f381c56764b0.png" alt="Image not found" width="128" height="128"/> | 2018 | Experimental hip hop
