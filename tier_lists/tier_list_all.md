@@ -1,6 +1,6 @@
 # List of every album/EP I've ever heard
 
-### Album/EP count: 57
+### Album/EP count: 58
 
 ### Authors count: 35
 
@@ -52,7 +52,7 @@
 | Beatchild & The Slakadeliqs | Heavy Rockin' Steady | <img src="/images/heavy_rockin_steady.jpg" alt="Image not found" width="128" height="128"/> | 2018 | Rocksteady/Soul
 | Suicideboys | $outh $ide $uicide | <img src="https://user-images.githubusercontent.com/103755136/207963415-7a650dd3-8e30-440f-bc0d-a73a50a221a4.png" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap
 | Hasan |  Oceán | ![image](https://user-images.githubusercontent.com/103755136/200119738-d0d14f37-bb0c-40a8-a471-a7a5d7b77931.png)| 2016 | Alternative hip hop
-| Hasan |  Loft | <img src="/images/loft.jpg" alt="Image not found" width="96" height="96"/> | 2017 | Cloud rap
+| Hasan |  Loft | <img src="/images/loft.jpg" alt="Image not found" width="128" height="128"/> | 2017 | Cloud rap
  Ben Cristovao | JENTAK | <img src="/images/jentak.jpg" alt="Image not found" width="128" height="128"/> | 2021 | Pop rock/R&B
 | True Gabe | Vulture Culture |  <img src="https://user-images.githubusercontent.com/103755136/200171322-0ff62c0d-0865-405a-9c97-a14f80697e4a.png" alt="Image not found" width="128" height="128"/> | 2021 | Rap/EDM Rap
 | Dorian | Everyday is May | <img src="https://user-images.githubusercontent.com/103755136/204139162-b1b24358-37ff-4148-ad9a-3d7dbd86d8c1.png" alt="Image not found" width="128" height="128"/> | 2022 | Progressive rap/Trap
