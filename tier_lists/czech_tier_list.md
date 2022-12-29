@@ -1,8 +1,8 @@
 # Czech tier list
 
-### Album/EP count: 24
+### Album/EP count: 25
 
-### Authors count: 15
+### Authors count: 16
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -40,6 +40,7 @@
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/zhora_vypada_vsechno_lip.jpg" alt="Image not found" width="96" height="96"/> |  Zhora Vypadá Všechno Líp | Yzomandias | 2018 | Hip hop
 | <img src="/images/romeo.jpg" alt="Image not found" width="96" height="96"/> |  Romeo | CA$ANOVA BULHAR | 2021 | Hip hop/Trap
+| <img src="/images/made_in_strasnice.jpg" alt="Image not found" width="96" height="96"/> | Made in Strašnice | Prago Union | 2021 | Hip hop
 | <img src="/images/aurora.jpg" alt="Image not found" width="96" height="96"/> |  Aurora | Hasan | 2015 | Cloud rap
 | <img src="/images/prijdu_soon.jpg" alt="Image not found" width="96" height="96"/> |  Přijdu Soon | True Gabe | 2019 | EDM rap/Trap
 | <img src="/images/radio_rychli_kluci.jpg" alt="Image not found" width="96" height="96"/> |  RÁDIO RYCHLÍ KLUCI | KOJO | 2020 | Drill/EDM rap
