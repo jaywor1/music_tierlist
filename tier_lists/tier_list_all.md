@@ -1,6 +1,6 @@
 # List of every album/EP I've ever heard
 
-### Album/EP count: 61
+### Album/EP count: 62
 
 ### Authors count: 37
 
@@ -49,6 +49,7 @@
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | Suicideboys | My Liver Will Handle What My Heart Can't | <img src="https://user-images.githubusercontent.com/103755136/204095643-030997f3-c24a-4dc8-b620-978c9dcf1719.png" alt="Image not found" width="128" height="128"/> | 2015 | Hororcore/Trap metal 
 | Suicideboys | I Want to Die in New Orleans | <img src="https://user-images.githubusercontent.com/103755136/206500859-a513f5d0-b6fb-4e9d-a71f-4d505528844b.png" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap/Hardocore hip hop
+| Redzed | Suicidal Hippie | <img src="/images/suicidal_hippie.jpg" alt="Image not found" width="128" height="128"/> | 2020 | Rapcore/Rap rock
 | Hasan |  Echo | <img src="https://user-images.githubusercontent.com/103755136/204890969-6f30b33d-0f2b-46f8-9755-a160f41bb7ce.png" alt="Image not found" width="128" height="128"/>| 2021 | Only instrumental/beats
 | Stein27 | Teorie pádu | <img src="https://user-images.githubusercontent.com/103755136/201498121-e87a2eee-b931-4953-9ebb-f7449a425eac.png" alt="Image not found" width="128" height="128"/> | 2020 | Rap metal/Emo rap
 | Beatchild & The Slakadeliqs | Heavy Rockin' Steady | <img src="/images/heavy_rockin_steady.jpg" alt="Image not found" width="128" height="128"/> | 2018 | Rocksteady/Soul

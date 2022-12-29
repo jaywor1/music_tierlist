@@ -1,6 +1,6 @@
 # Czech tier list
 
-### Album/EP count: 25
+### Album/EP count: 26
 
 ### Authors count: 16
 
@@ -22,6 +22,7 @@
 ## B tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/suicidal_hippie.jpg" alt="Image not found" width="96" height="96"/> | Suicidal Hippie | Redzed | 2020 | Rapcore/Rap rock
 | <img src="/images/echo.jpg" alt="Image not found" width="96" height="96"/> |  Echo | Hasan | 2021 | Only instrumental/beats
 | <img src="/images/teorie_padu.jpg" alt="Image not found" width="96" height="96"/> | Teorie pádu | Stein27 | 2020 | Rap metal/Emo rap
 | <img src="/images/ocean.jpg" alt="Image not found" width="96" height="96"/> |  Oceán | Hasan | 2016 | Alternative hip hop
