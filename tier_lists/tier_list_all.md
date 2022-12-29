@@ -1,8 +1,8 @@
 # List of every album/EP I've ever heard
 
-### Album/EP count: 59
+### Album/EP count: 60
 
-### Authors count: 36
+### Authors count: 37
 
 ## S tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
@@ -68,6 +68,7 @@
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | Yzomandias |  Zhora Vypadá Všechno Líp | ![image](https://user-images.githubusercontent.com/103755136/200119829-612c4034-c30d-4267-928b-6a0eb29e5876.png)| 2018 | Hip hop
 | CA$HANOVA BULHAR |  Romeo | ![image](https://user-images.githubusercontent.com/103755136/200119418-29379619-b27d-4278-8cb4-70daa5f7d4f9.png)| 2021 | Hip hop/Trap
+| Prago Union | Made in Strašnice | <img src="/images/made_in_strasnice.jpg" alt="Image not found" width="128" height="128"/> | 2021 | Hip hop
 | Hasan |  Aurora | <img src="/images/aurora.jpg" alt="Image not found" width="128" height="128"/> | 2015 | Cloud rap
 | True Gabe |  Přijdu Soon | <img src="https://user-images.githubusercontent.com/103755136/204633077-6e8f79a5-4151-4c87-9915-cbbfa707a0a4.png" alt="Image not found" width="128" height="128"/> | 2019 | EDM rap/Trap
 | KOJO |  RÁDIO RYCHLÍ KLUCI | <img src="https://user-images.githubusercontent.com/103755136/206714059-d590bef1-3176-42c2-841b-2c92072fa8a2.png" alt="Image not found" width="128" height="128"/> | 2020 | Drill/EDM rap
