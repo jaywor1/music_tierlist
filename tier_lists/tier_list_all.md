@@ -1,6 +1,6 @@
 # List of every album/EP I've ever heard
 
-### Album/EP count: 62
+### Album/EP count: 63
 
 ### Authors count: 37
 
@@ -52,6 +52,7 @@
 | Redzed | Suicidal Hippie | <img src="/images/suicidal_hippie.jpg" alt="Image not found" width="128" height="128"/> | 2020 | Rapcore/Rap rock
 | Hasan |  Echo | <img src="https://user-images.githubusercontent.com/103755136/204890969-6f30b33d-0f2b-46f8-9755-a160f41bb7ce.png" alt="Image not found" width="128" height="128"/>| 2021 | Only instrumental/beats
 | Stein27 | Teorie pádu | <img src="https://user-images.githubusercontent.com/103755136/201498121-e87a2eee-b931-4953-9ebb-f7449a425eac.png" alt="Image not found" width="128" height="128"/> | 2020 | Rap metal/Emo rap
+| Suicideboys | Grey Sheep II | <img src="/images/grey_sheep_2.jpg" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap
 | Beatchild & The Slakadeliqs | Heavy Rockin' Steady | <img src="/images/heavy_rockin_steady.jpg" alt="Image not found" width="128" height="128"/> | 2018 | Rocksteady/Soul
 | Suicideboys | $outh $ide $uicide | <img src="https://user-images.githubusercontent.com/103755136/207963415-7a650dd3-8e30-440f-bc0d-a73a50a221a4.png" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap
 | Hasan |  Oceán | ![image](https://user-images.githubusercontent.com/103755136/200119738-d0d14f37-bb0c-40a8-a471-a7a5d7b77931.png)| 2016 | Alternative hip hop
