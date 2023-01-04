@@ -11,15 +11,15 @@
 | Metallica | Metallica | <img src="https://user-images.githubusercontent.com/103755136/201498140-d4e26bcf-7564-4e7b-b817-c34463788d77.png" alt="Image not found" width="128" height="128"/> | 1991 | Heavy metal
 | Rammstein | Mutter | <img src="https://user-images.githubusercontent.com/103755136/200171198-76ef3e12-fdeb-4623-97ec-c3db8c4f75ce.png" alt="Image not found" width="128" height="128"/> | 2001 | Industrial metal/NDH
 | Led Zeppelin | Led Zeppelin | <img src="https://user-images.githubusercontent.com/103755136/206241233-7916fcbb-c16b-4e7a-98b7-b2fba9ac75f5.png" alt="Image not found" width="128" height="128"/> | 1969 | Blues rock/Hard rock
-| System Of A Down |    Toxicity   |   ![image](https://user-images.githubusercontent.com/103755136/200119295-f1496907-fe88-417c-a72e-a2bbae7a45a7.png) | 2001 | Nu metal/Alternative metal
-| Linkin Park | Meteora | ![image](https://user-images.githubusercontent.com/103755136/200120011-1ea7e2cc-6e32-46f5-b8bd-edb998a89ba7.png) | 2003 | Nu metal
 | Guns N' Roses | Use Your Illusion I | ![image](https://user-images.githubusercontent.com/103755136/200119940-804d3f50-21bb-4211-82ed-9ada6bf7aaae.png)| 1991 | Hard rock
 | Deep Purple | Perfect Strangers | ![image](https://user-images.githubusercontent.com/103755136/200119902-dbc635b6-58c3-4225-9e39-c178d3ef0c46.png)| 1984 | Hard rock/Heavy metal
+| System Of A Down |    Toxicity   |   ![image](https://user-images.githubusercontent.com/103755136/200119295-f1496907-fe88-417c-a72e-a2bbae7a45a7.png) | 2001 | Nu metal/Alternative metal
+| Linkin Park | Meteora | ![image](https://user-images.githubusercontent.com/103755136/200120011-1ea7e2cc-6e32-46f5-b8bd-edb998a89ba7.png) | 2003 | Nu metal
+| Kanye West | My Beautiful Dark Twisted Fantasy | <img src="https://user-images.githubusercontent.com/103755136/204093197-17116546-35f2-431e-ace9-afed3bdf83a7.png" alt="Image not found" width="128" height="128"/> | 2010 | Progressive rap/Rap opera
 
 ## A tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| Kanye West | My Beautiful Dark Twisted Fantasy | <img src="https://user-images.githubusercontent.com/103755136/204093197-17116546-35f2-431e-ace9-afed3bdf83a7.png" alt="Image not found" width="128" height="128"/> | 2010 | Progressive rap/Rap opera
 | Rammstein | REISE, REISE | <img src="https://user-images.githubusercontent.com/103755136/206209469-ac994f76-92e3-40a0-a1c2-71a6f04bd0aa.png" alt="Image not found" width="128" height="128"/> | 2004 | Industrial metal/NDH
 | Korn |  The Serenity of Suffering | <img src="https://user-images.githubusercontent.com/103755136/208310598-90fe4963-64b9-47b1-bae5-af32a9eae118.png" alt="Image not found" width="128" height="128"/> | 2016 | Nu metal/Alternative metal
 | Ghostemane |  ANTI-ICON | <img src="https://user-images.githubusercontent.com/103755136/207961326-6f311740-8b22-410e-9de6-aeaa538ee84e.png" alt="Image not found" width="128" height="128"/> | 2020 | Hardcore punk/Rap metal
