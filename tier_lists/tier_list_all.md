@@ -1,8 +1,8 @@
 # List of every album/EP I've ever heard
 
-### Album/EP count: 63
+### Album/EP count: 64
 
-### Authors count: 37
+### Authors count: 38
 
 ## S tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
@@ -20,6 +20,7 @@
 ## A tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| Michael Jackson | Thriller | <img src="/images/thrilller.jpg" alt="Image not found" width="128" height="128"/> | 1982 | R&B/Funk
 | Rammstein | REISE, REISE | <img src="https://user-images.githubusercontent.com/103755136/206209469-ac994f76-92e3-40a0-a1c2-71a6f04bd0aa.png" alt="Image not found" width="128" height="128"/> | 2004 | Industrial metal/NDH
 | Korn |  The Serenity of Suffering | <img src="https://user-images.githubusercontent.com/103755136/208310598-90fe4963-64b9-47b1-bae5-af32a9eae118.png" alt="Image not found" width="128" height="128"/> | 2016 | Nu metal/Alternative metal
 | Ghostemane |  ANTI-ICON | <img src="https://user-images.githubusercontent.com/103755136/207961326-6f311740-8b22-410e-9de6-aeaa538ee84e.png" alt="Image not found" width="128" height="128"/> | 2020 | Hardcore punk/Rap metal
