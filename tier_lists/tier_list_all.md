@@ -44,7 +44,6 @@
 | Paul Simon |  So Beautiful or So What | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="128" height="128"/> | 2011 | Folk rock
 | Linkin Park | Hybrid Theory | <img src="https://user-images.githubusercontent.com/103755136/200171257-990042a0-cea6-4bd9-89f0-a272d62f29de.png" alt="Image not found" width="128" height="128"/> | 2000 | Nu metal/Rap metal
 | Lil Peep & Lil Tracy | CASTLES II | <img src="https://user-images.githubusercontent.com/103755136/203418321-5500f3fa-6f7b-4231-bc79-41efb6e41b2a.png" alt="Image not found" width="128" height="128"/> | 2021 | Emo rap
-| Nightwish | Once | <img src="https://user-images.githubusercontent.com/103755136/201498210-24fa892e-6943-4769-82c1-9ff8097e4be3.png" alt="Image not found" width="128" height="128"/> | 2004 | 	Symphonic metal
 ## B tier
 | Author   |      Album/EP      |  Album Cover | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
@@ -54,17 +53,18 @@
 | Hasan |  Echo | <img src="https://user-images.githubusercontent.com/103755136/204890969-6f30b33d-0f2b-46f8-9755-a160f41bb7ce.png" alt="Image not found" width="128" height="128"/>| 2021 | Only instrumental/beats
 | Stein27 | Teorie pádu | <img src="https://user-images.githubusercontent.com/103755136/201498121-e87a2eee-b931-4953-9ebb-f7449a425eac.png" alt="Image not found" width="128" height="128"/> | 2020 | Emo rap
 | Suicideboys | Grey Sheep II | <img src="/images/grey_sheep_2.jpg" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap
+| Amon Amarth | Fate of Norns | <img src="https://user-images.githubusercontent.com/103755136/201498180-6b12c2ec-a7b8-4d90-bc99-6f6c2e92ed76.png" alt="Image not found" width="128" height="128"/> | 2004 | Melodic death metal
 | Beatchild & The Slakadeliqs | Heavy Rockin' Steady | <img src="/images/heavy_rockin_steady.jpg" alt="Image not found" width="128" height="128"/> | 2018 | Rocksteady/Soul
 | Suicideboys | $outh $ide $uicide | <img src="https://user-images.githubusercontent.com/103755136/207963415-7a650dd3-8e30-440f-bc0d-a73a50a221a4.png" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap
 | Hasan |  Oceán | ![image](https://user-images.githubusercontent.com/103755136/200119738-d0d14f37-bb0c-40a8-a471-a7a5d7b77931.png)| 2016 | Alternative hip hop
 | Hasan |  Loft | <img src="/images/loft.jpg" alt="Image not found" width="128" height="128"/> | 2017 | Cloud rap
+| Nightwish | Once | <img src="https://user-images.githubusercontent.com/103755136/201498210-24fa892e-6943-4769-82c1-9ff8097e4be3.png" alt="Image not found" width="128" height="128"/> | 2004 | 	Symphonic metal
  Ben Cristovao | JENTAK | <img src="/images/jentak.jpg" alt="Image not found" width="128" height="128"/> | 2021 | Pop rock/R&B
 | True Gabe | Vulture Culture |  <img src="https://user-images.githubusercontent.com/103755136/200171322-0ff62c0d-0865-405a-9c97-a14f80697e4a.png" alt="Image not found" width="128" height="128"/> | 2021 | Rap/EDM Rap
 | Dorian | Everyday is May | <img src="https://user-images.githubusercontent.com/103755136/204139162-b1b24358-37ff-4148-ad9a-3d7dbd86d8c1.png" alt="Image not found" width="128" height="128"/> | 2022 | Progressive rap/Trap
 | Yzomandias |  J. EDEN E-GEN | ![image](https://user-images.githubusercontent.com/103755136/200119604-0bffd032-fd54-44ba-b22e-cfd82e83a013.png)| 2021 | Trap/EDM rap
 | Bring Me The Horizon | That's The Spirit | <img src="https://user-images.githubusercontent.com/103755136/200171440-55550a0d-424b-4fb0-9cd8-8fbf68e802e9.png" alt="Image not found" width="128" height="128"/> | 2015 | Alternative rock/Electronic rock
 | Ghostemane | Plagues | <img src="https://user-images.githubusercontent.com/103755136/206916275-3808be0b-4715-414d-b9ee-bf2a4f225016.png" alt="Image not found" width="128" height="128"/> | 2016 | Cloud rap/Hardcore hip hop
-| Amon Amarth | Fate of Norns | <img src="https://user-images.githubusercontent.com/103755136/201498180-6b12c2ec-a7b8-4d90-bc99-6f6c2e92ed76.png" alt="Image not found" width="128" height="128"/> | 2004 | Melodic death metal
 
 ## C tier
 
