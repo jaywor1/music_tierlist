@@ -2,9 +2,7 @@
 
 ### Album/EP count: 64
 
-### Authors count: 38
-
-| <img src="/images/led_zeppelin.jpg" alt="Image not found" width="96" height="96"/>  |  | | | 
+### Authors count: 38 
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -43,9 +41,7 @@
 | <img src="/images/eternal_grey.jpg" alt="Image not found" width="96" height="96"/>  | Eternal Grey | Suicideboys | 2016 | Hororcore / Dark trap 
 | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="96" height="96"/>  | So Beautiful or So What | Paul Simon | 2011 | Folk rock 
 | <img src="/images/hybrid_theory.jpg" alt="Image not found" width="96" height="96"/>  | Hybrid Theory | Linkin Park | 2000 | Nu metal / Rap metal 
-| <img src="/images/.jpg" alt="Image not found" width="96" height="96"/>  | CASTLES II | Lil Peep & Lil Tracy | 2021 | Emo rap 
-| <img src="/images/.jpg" alt="Image not found" width="96" height="96"/>  |  |  |  |  
-
+| <img src="/images/castles_2.jpg" alt="Image not found" width="96" height="96"/>  | CASTLES II | Lil Peep & Lil Tracy | 2021 | Emo rap 
 
 
 ## B tier
@@ -69,6 +65,7 @@
 | <img src="/images/thats_the_spirit.jpg" alt="Image not found" width="96" height="96"/>  | That's The Spirit | Bring Me The Horizon | 2015 | Alternative rock / Electronic rock 
 | <img src="/images/plagues.jpg" alt="Image not found" width="96" height="96"/>  | Plagues | Ghostemane | 2016 | Cloud rap / Hardcore hip hop
 
+
 ## C tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
@@ -83,15 +80,18 @@
 | <img src="/images/the_gloomy_tapes_vol_2.jpg" alt="Image not found" width="96" height="96"/>  | The Gloomy Tapes, Vol. 2 | Call Me Karizma | 2019 | Pop rap 
 | <img src="/images/backstage.jpg" alt="Image not found" width="96" height="96"/>  | BACKSTAGE | True Gabe & DJ Kadr | 2020 | EDM rap / Trap 
 
+
 ## D tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/dirty_nasty_suicide.jpg" alt="Image not found" width="96" height="96"/>  | DIRTYNASTY$UICIDE | Suicideboys | 2016 | Hororcore 
 
+
 ## E tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/trappin_lonely.jpg" alt="Image not found" width="96" height="96"/>  | TRAPPIN LONELY | PTK | 2022 | Trap / Emo rap 
+
 
 ## F tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
