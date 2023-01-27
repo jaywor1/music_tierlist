@@ -4,99 +4,96 @@
 
 ### Authors count: 38
 
+| <img src="/images/led_zeppelin.jpg" alt="Image not found" width="96" height="96"/>  |  | | | 
+
 ## S tier
-| Author   |      Album/EP      |  Album Cover | Year | Genre |
+| Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| Metallica | Ride The Lightning | <img src="https://user-images.githubusercontent.com/103755136/203146477-535ba9a7-54ff-408e-a37e-2ce958770de0.png" alt="Image not found" width="128" height="128"/> | 1984 | Thrash metal
-| Metallica | Metallica | <img src="https://user-images.githubusercontent.com/103755136/201498140-d4e26bcf-7564-4e7b-b817-c34463788d77.png" alt="Image not found" width="128" height="128"/> | 1991 | Heavy metal
-| Rammstein | Mutter | <img src="https://user-images.githubusercontent.com/103755136/200171198-76ef3e12-fdeb-4623-97ec-c3db8c4f75ce.png" alt="Image not found" width="128" height="128"/> | 2001 | Industrial metal/NDH
-| Led Zeppelin | Led Zeppelin | <img src="https://user-images.githubusercontent.com/103755136/206241233-7916fcbb-c16b-4e7a-98b7-b2fba9ac75f5.png" alt="Image not found" width="128" height="128"/> | 1969 | Blues rock/Hard rock
-| Guns N' Roses | Use Your Illusion I | ![image](https://user-images.githubusercontent.com/103755136/200119940-804d3f50-21bb-4211-82ed-9ada6bf7aaae.png)| 1991 | Hard rock
-| Deep Purple | Perfect Strangers | ![image](https://user-images.githubusercontent.com/103755136/200119902-dbc635b6-58c3-4225-9e39-c178d3ef0c46.png)| 1984 | Hard rock/Heavy metal
-| System Of A Down |    Toxicity   |   ![image](https://user-images.githubusercontent.com/103755136/200119295-f1496907-fe88-417c-a72e-a2bbae7a45a7.png) | 2001 | Nu metal/Alternative metal
-| Linkin Park | Meteora | ![image](https://user-images.githubusercontent.com/103755136/200120011-1ea7e2cc-6e32-46f5-b8bd-edb998a89ba7.png) | 2003 | Nu metal
-| Kanye West | My Beautiful Dark Twisted Fantasy | <img src="https://user-images.githubusercontent.com/103755136/204093197-17116546-35f2-431e-ace9-afed3bdf83a7.png" alt="Image not found" width="128" height="128"/> | 2010 | Progressive rap/Rap opera
+| <img src="/images/ride_the_lightning.jpg" alt="Image not found" width="96" height="96"/>  | Ride The Lightning | Metallica | 1984 | Thrash metal
+| <img src="/images/metallica.jpg" alt="Image not found" width="96" height="96"/>  | Metallica | Metallica | 1991 | Heavy metal
+| <img src="/images/mutter.jpg" alt="Image not found" width="96" height="96"/>  | Mutter | Rammstein | 2001 |  	Industrial metal / NDH
+| <img src="/images/led_zeppelin.jpg" alt="Image not found" width="96" height="96"/>  | Led Zeppelin | Led Zeppelin | 1969 | Blues rock / Hard rock 
+| <img src="/images/use_your_illusion_I.jpg" alt="Image not found" width="96" height="96"/>  | Use Your Ilusion I | Guns N' Roses | 1991 | Hard rock
+| <img src="/images/perfect_strangers.jpg" alt="Image not found" width="96" height="96"/>  | Perfect Strangers | Deep Purple | 1984 | Hard rock / Heavy metal  
+
 
 ## A tier
-| Author   |      Album/EP      |  Album Cover | Year | Genre |
+| Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| Michael Jackson | Thriller | <img src="/images/thriller.jpg" alt="Image not found" width="128" height="128"/> | 1982 | R&B/Funk
-| Rammstein | REISE, REISE | <img src="https://user-images.githubusercontent.com/103755136/206209469-ac994f76-92e3-40a0-a1c2-71a6f04bd0aa.png" alt="Image not found" width="128" height="128"/> | 2004 | Industrial metal/NDH
-| Korn |  The Serenity of Suffering | <img src="https://user-images.githubusercontent.com/103755136/208310598-90fe4963-64b9-47b1-bae5-af32a9eae118.png" alt="Image not found" width="128" height="128"/> | 2016 | Nu metal/Alternative metal
-| Metallica | Kill 'Em All | <img src="/images/kill_em_all.jpg" alt="Image not found" width="128" height="128"/> | 1983 | Thrash metal/Heavy metal
-| Ghostemane |  ANTI-ICON | <img src="https://user-images.githubusercontent.com/103755136/207961326-6f311740-8b22-410e-9de6-aeaa538ee84e.png" alt="Image not found" width="128" height="128"/> | 2020 | Hardcore punk/Rap metal
-| Hasan |  Album, co mi změnilo život (Další rozměr) | <img src="https://user-images.githubusercontent.com/103755136/204161578-ce456e49-77b9-4a87-bf7c-09804e30230e.png" alt="Image not found" width="128" height="128"/> | 2022 | Alternative hip hop
-| Rammstein | Liebe ist für alle da (Special Edition) | <img src="/images/liebe_ist_fur_alle_da.png" alt="Image not found" width="128" height="128"/> | 2009 | NDH/Industrial metal
-| Radiohead |  Kid A | <img src="/images/kid_a.jpg" alt="Image not found" width="128" height="128"/> | 2000 | Alternative hip hop/Progressive rap
-| Kanye West |  Graduation | <img src="https://user-images.githubusercontent.com/103755136/204095509-0711b58d-bfd3-4428-a322-56ace2701d4d.png" alt="Image not found" width="128" height="128"/> | 2007 | Experimental rock/Ambient
-| ASAP Rocky |  TESTING | <img src="https://user-images.githubusercontent.com/103755136/208244567-2a0b7bc3-2c88-4eef-a43f-f381c56764b0.png" alt="Image not found" width="128" height="128"/> | 2018 | Experimental hip hop
-| Hasan |  Hasan | ![image](https://user-images.githubusercontent.com/103755136/200119073-84584937-0286-4070-8974-6530c5b286ea.png)| 2019 | Alternative hip hop
-| Lil Peep | Come Over When You're Sober, Pt. 1 | <img src="https://user-images.githubusercontent.com/103755136/203151648-93969dbe-d5c0-45d6-91d9-62df23c7dbc1.png" alt="Image not found" width="128" height="128"/> | 2017 | Emo rap/Pop funk
-| Rest |  Restart | ![image](https://user-images.githubusercontent.com/103755136/200119773-b5b6b68b-8da2-4abf-9d61-44afc04434b9.png)| 2018 | Hip hop
-| Rest & DJ Wich | Tlak | <img src="https://user-images.githubusercontent.com/103755136/204138930-193d8bfb-4619-4cb8-8220-04df54cb0551.png" alt="Image not found" width="128" height="128"/> | 2022 | Hip hop
-| Kanye West | Yeezus | <img src="https://user-images.githubusercontent.com/103755136/204618073-7e4365c6-49c7-4a21-9f48-cc0605973a46.png" alt="Image not found" width="128" height="128"/> | 2013 | Experimental/Alternative rap
-| Deep Purple | Made In Japan |  <img src="https://user-images.githubusercontent.com/103755136/200171359-0b5c6b86-54fe-4bee-ba18-15619bb3a5fd.png" alt="Image not found" width="128" height="128"/> | 1972 | Hard rock/Heavy metal
-| Arctic Monkeys |  AM | ![image](https://user-images.githubusercontent.com/103755136/200119696-db265c24-9bca-4566-8986-eaaea00b3dab.png)| 2013 | Indie rock
-| Hasan |  Prototyp: Upgrade | ![image](https://user-images.githubusercontent.com/103755136/200119659-4187b377-c318-4d63-9329-3ed9dca474a7.png)| 2021 | Alternative hip hop
-| Redzed | Bohemian Psycho | <img src="https://user-images.githubusercontent.com/103755136/200171478-9b1bdd17-901d-49ab-8460-0c088257ff1b.png" alt="Image not found" width="128" height="128"/> | 2019 | Dark Trap
-| Viktor Sheen | Barvy | <img src="https://user-images.githubusercontent.com/103755136/200171577-5f838dca-058d-430f-99a9-26314841556f.png" alt="Image not found" width="128" height="128"/> | 2020 | Hip hop/Trap
-| Suicideboys | Eternal Grey | <img src="https://user-images.githubusercontent.com/103755136/204651364-1f7c619e-047a-410b-9d09-1f278aac6a46.png" alt="Image not found" width="128" height="128"/> | 2016 | Hororcore/Dark trap
-| Paul Simon |  So Beautiful or So What | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="128" height="128"/> | 2011 | Folk rock
-| Linkin Park | Hybrid Theory | <img src="https://user-images.githubusercontent.com/103755136/200171257-990042a0-cea6-4bd9-89f0-a272d62f29de.png" alt="Image not found" width="128" height="128"/> | 2000 | Nu metal/Rap metal
-| Lil Peep & Lil Tracy | CASTLES II | <img src="https://user-images.githubusercontent.com/103755136/203418321-5500f3fa-6f7b-4231-bc79-41efb6e41b2a.png" alt="Image not found" width="128" height="128"/> | 2021 | Emo rap
+| <img src="/images/thriller.jpg" alt="Image not found" width="96" height="96"/>  | Thriller | Michael Jackson | 1982 | R&B / Funk 
+| <img src="/images/reise_reise.jpg" alt="Image not found" width="96" height="96"/>  | REISE, REISE | Rammstein | 2004 | Industrial metal / NDH
+| <img src="/images/the_serenity_of_suffering.jpg" alt="Image not found" width="96" height="96"/>  | The Serenity of Suffering | Korn | 2016 | Nu metal / Alternative metal
+| <img src="/images/kill_em_all.jpg" alt="Image not found" width="96" height="96"/>  | Kill 'Em All | Metallica | 1983 | Tharsh metal / Heavy metal
+| <img src="/images/anti_icon.jpg" alt="Image not found" width="96" height="96"/>  | ANTI-ICON | Ghostemane | 2020 | Hardcore punk / Rap metal
+| <img src="/images/album_co_mi_zmenilo_zivot_rozmer.jpg" alt="Image not found" width="96" height="96"/>  | Album, co mi změnilo život (Další rozměr) | Hasan | 2022 | Alternative hip hop
+| <img src="/images/liebe_ist_fur_alle_da.png" alt="Image not found" width="96" height="96"/>  | Liebe ist für alle da (Special Edition) | Rammstein | 2009 | Industrial metal / NDH 
+| <img src="/images/kid_a.jpg" alt="Image not found" width="96" height="96"/>  | Kid A | Radiohead | 2000 | Alternative hip hop / Progressive rap
+| <img src="/images/graduation.jpg" alt="Image not found" width="96" height="96"/>  | Graduation | Kanye West | 2007 | Progressive rap
+| <img src="/images/testing.jpg" alt="Image not found" width="96" height="96"/>  | TESTING | ASAP Rocky | 2018 | Experimental hip hop
+| <img src="/images/hasan.jpg" alt="Image not found" width="96" height="96"/>  | Hasan | Hasan | 2019 | Alternative hip hop 
+| <img src="/images/come_over_when_youre_sober_pt_1.jpg" alt="Image not found" width="96" height="96"/>  | Come Over When You're Sober, Pt. 1 | Lil Peep | 2017 | Emo rap / Pop funk
+| <img src="/images/restart.jpg" alt="Image not found" width="96" height="96"/>  | Restart | Rest | 2018 | Hip hop
+| <img src="/images/tlak.jpg" alt="Image not found" width="96" height="96"/>  | Tlak | Rest | 2022 | Hip hop 
+| <img src="/images/yeezus.jpg" alt="Image not found" width="96" height="96"/>  | Yeezus | Kanye West | 2013 | Experimental rap / Alternative rap 
+| <img src="/images/made_in_japan.jpg" alt="Image not found" width="96" height="96"/>  | Made In Japan | Deep Purple | 1972 | Hard rock / Heavy metal  
+| <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock 
+| <img src="/images/prototyp_upgrade.jpg" alt="Image not found" width="96" height="96"/>  | Prototyp: Upgrade | Hasan | 2021 | Alternative hip hop 
+| <img src="/images/bohemian_psycho.jpg" alt="Image not found" width="96" height="96"/>  | Bohemian Psycho | Redzed | 2019 | Dark trap 
+| <img src="/images/barvy.jpg" alt="Image not found" width="96" height="96"/>  | Barvy | Viktor Sheen | 2020 | Hip hop / Trap  
+| <img src="/images/eternal_grey.jpg" alt="Image not found" width="96" height="96"/>  | Eternal Grey | Suicideboys | 2016 | Hororcore / Dark trap 
+| <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="96" height="96"/>  | So Beautiful or So What | Paul Simon | 2011 | Folk rock 
+| <img src="/images/hybrid_theory.jpg" alt="Image not found" width="96" height="96"/>  | Hybrid Theory | Linkin Park | 2000 | Nu metal / Rap metal 
+| <img src="/images/.jpg" alt="Image not found" width="96" height="96"/>  | CASTLES II | Lil Peep & Lil Tracy | 2021 | Emo rap 
+| <img src="/images/.jpg" alt="Image not found" width="96" height="96"/>  |  |  |  |  
+
+
+
 ## B tier
-| Author   |      Album/EP      |  Album Cover | Year | Genre |
+| Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| Suicideboys | My Liver Will Handle What My Heart Can't | <img src="https://user-images.githubusercontent.com/103755136/204095643-030997f3-c24a-4dc8-b620-978c9dcf1719.png" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap
-| Suicideboys | I Want to Die in New Orleans | <img src="https://user-images.githubusercontent.com/103755136/206500859-a513f5d0-b6fb-4e9d-a71f-4d505528844b.png" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap/Hardocore hip hop
-| Redzed | Suicidal Hippie | <img src="/images/suicidal_hippie.jpg" alt="Image not found" width="128" height="128"/> | 2020 | Rapcore/Rap rock
-| Hasan |  Echo | <img src="https://user-images.githubusercontent.com/103755136/204890969-6f30b33d-0f2b-46f8-9755-a160f41bb7ce.png" alt="Image not found" width="128" height="128"/>| 2021 | Only instrumental/beats
-| Stein27 | Teorie pádu | <img src="https://user-images.githubusercontent.com/103755136/201498121-e87a2eee-b931-4953-9ebb-f7449a425eac.png" alt="Image not found" width="128" height="128"/> | 2020 | Emo rap
-| Suicideboys | Grey Sheep II | <img src="/images/grey_sheep_2.jpg" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap
-| Amon Amarth | Fate of Norns | <img src="https://user-images.githubusercontent.com/103755136/201498180-6b12c2ec-a7b8-4d90-bc99-6f6c2e92ed76.png" alt="Image not found" width="128" height="128"/> | 2004 | Melodic death metal
-| Beatchild & The Slakadeliqs | Heavy Rockin' Steady | <img src="/images/heavy_rockin_steady.jpg" alt="Image not found" width="128" height="128"/> | 2018 | Rocksteady/Soul
-| Suicideboys | $outh $ide $uicide | <img src="https://user-images.githubusercontent.com/103755136/207963415-7a650dd3-8e30-440f-bc0d-a73a50a221a4.png" alt="Image not found" width="128" height="128"/> | 2015 | Shadow rap
-| Hasan |  Oceán | ![image](https://user-images.githubusercontent.com/103755136/200119738-d0d14f37-bb0c-40a8-a471-a7a5d7b77931.png)| 2016 | Alternative hip hop
-| Hasan |  Loft | <img src="/images/loft.jpg" alt="Image not found" width="128" height="128"/> | 2017 | Cloud rap
-| Nightwish | Once | <img src="https://user-images.githubusercontent.com/103755136/201498210-24fa892e-6943-4769-82c1-9ff8097e4be3.png" alt="Image not found" width="128" height="128"/> | 2004 | 	Symphonic metal
- Ben Cristovao | JENTAK | <img src="/images/jentak.jpg" alt="Image not found" width="128" height="128"/> | 2021 | Pop rock/R&B
-| True Gabe | Vulture Culture |  <img src="https://user-images.githubusercontent.com/103755136/200171322-0ff62c0d-0865-405a-9c97-a14f80697e4a.png" alt="Image not found" width="128" height="128"/> | 2021 | Rap/EDM Rap
-| Dorian | Everyday is May | <img src="https://user-images.githubusercontent.com/103755136/204139162-b1b24358-37ff-4148-ad9a-3d7dbd86d8c1.png" alt="Image not found" width="128" height="128"/> | 2022 | Progressive rap/Trap
-| Yzomandias |  J. EDEN E-GEN | ![image](https://user-images.githubusercontent.com/103755136/200119604-0bffd032-fd54-44ba-b22e-cfd82e83a013.png)| 2021 | Trap/EDM rap
-| Bring Me The Horizon | That's The Spirit | <img src="https://user-images.githubusercontent.com/103755136/200171440-55550a0d-424b-4fb0-9cd8-8fbf68e802e9.png" alt="Image not found" width="128" height="128"/> | 2015 | Alternative rock/Electronic rock
-| Ghostemane | Plagues | <img src="https://user-images.githubusercontent.com/103755136/206916275-3808be0b-4715-414d-b9ee-bf2a4f225016.png" alt="Image not found" width="128" height="128"/> | 2016 | Cloud rap/Hardcore hip hop
+| <img src="/images/my_liver_will_handle_what_my_heart_cant.jpg" alt="Image not found" width="96" height="96"/>  | My Liver Will Handle What My Heart Can't | Suicideboys | 2015 | Shadow rap 
+| <img src="/images/i_want_to_die_in_new_orleans.jpg" alt="Image not found" width="96" height="96"/>  | I Want to Die in New Orleans | Suicideboys | 2018 | Shadow rap
+| <img src="/images/suicidal_hippie.jpg" alt="Image not found" width="96" height="96"/>  | Suicidal Hippie | Redzed | 2020 | Rapcore / Rap rock  
+| <img src="/images/echo.jpg" alt="Image not found" width="96" height="96"/>  | Echo | Hasan | 2021 | Only instrumental / beats 
+| <img src="/images/teorie_padu.jpg" alt="Image not found" width="96" height="96"/>  | Teorie pádu | Stein27 | 2020 | Emo rap
+| <img src="/images/grey_sheep_2.jpg" alt="Image not found" width="96" height="96"/>  | Grey Sheep II | Suicideboys | 2015 | Shadow rap 
+| <img src="/images/fate_of_norns.jpg" alt="Image not found" width="96" height="96"/>  | Fate of Norns | Amon Amarth | 2004 | Melodic death metal  
+| <img src="/images/heavy_rockin_steady.jpg" alt="Image not found" width="96" height="96"/>  | Heavy Rockin' Steady | Beatchild & The Slakadeliqs | 2018 | Rocksteady / Soul 
+| <img src="/images/south_side_suicide.jpg" alt="Image not found" width="96" height="96"/>  | $outh $ide $uicide | Suicideboys | 2015 | Shadow rap 
+| <img src="/images/ocean.jpg" alt="Image not found" width="96" height="96"/>  | Oceán | Hasan | 2017 | Cloud rap  
+| <img src="/images/once.jpg" alt="Image not found" width="96" height="96"/>  | Once | Nightwish | 2004 | Symphonic metal 
+| <img src="/images/jentak.jpg" alt="Image not found" width="96" height="96"/>  | JENTAK | Ben Cristoavo | 2021 | Pop rock / R&B 
+| <img src="/images/vulture_culture.jpg" alt="Image not found" width="96" height="96"/>  | Vulture Culture | True Gabe | 2021 | EDM rap 
+| <img src="/images/everyday_is_may.jpg" alt="Image not found" width="96" height="96"/>  | Everyday is May | Dorian | 2022 | Trap 
+| <img src="/images/j_eden_egen.jpg" alt="Image not found" width="96" height="96"/>  | J. EDEN E-GEN | Yzomandias | 2021 | Trap / EDM rap
+| <img src="/images/thats_the_spirit.jpg" alt="Image not found" width="96" height="96"/>  | That's The Spirit | Bring Me The Horizon | 2015 | Alternative rock / Electronic rock 
+| <img src="/images/plagues.jpg" alt="Image not found" width="96" height="96"/>  | Plagues | Ghostemane | 2016 | Cloud rap / Hardcore hip hop
 
 ## C tier
-
-| Author   |      Album/EP      |  Album Cover | Year | Genre |
+| Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| Yzomandias |  Zhora Vypadá Všechno Líp | ![image](https://user-images.githubusercontent.com/103755136/200119829-612c4034-c30d-4267-928b-6a0eb29e5876.png)| 2018 | Hip hop
-| CA$HANOVA BULHAR |  Romeo | ![image](https://user-images.githubusercontent.com/103755136/200119418-29379619-b27d-4278-8cb4-70daa5f7d4f9.png)| 2021 | Hip hop/Trap
-| Prago Union | Made in Strašnice | <img src="/images/made_in_strasnice.jpg" alt="Image not found" width="128" height="128"/> | 2021 | Hip hop
-| Hasan |  Aurora | <img src="/images/aurora.jpg" alt="Image not found" width="128" height="128"/> | 2015 | Cloud rap
-| True Gabe |  Přijdu Soon | <img src="https://user-images.githubusercontent.com/103755136/204633077-6e8f79a5-4151-4c87-9915-cbbfa707a0a4.png" alt="Image not found" width="128" height="128"/> | 2019 | EDM rap/Trap
-| KOJO |  RÁDIO RYCHLÍ KLUCI | <img src="https://user-images.githubusercontent.com/103755136/206714059-d590bef1-3176-42c2-841b-2c92072fa8a2.png" alt="Image not found" width="128" height="128"/> | 2020 | Drill/EDM rap
-| Kylof Söze | Tales From The Tri | <img src="https://user-images.githubusercontent.com/103755136/206711458-d07bcf76-a684-45dc-84b2-e5ed9774a866.png" alt="Image not found" width="128" height="128"/> | 2020 | Aesthetic rap/Trap rap
-| Call Me Karizma | The Gloomy Tapes, Vol. 1 | <img src="https://user-images.githubusercontent.com/103755136/200171399-f7db6618-8962-493c-bfc5-46638d8525ad.png" alt="Image not found" width="128" height="128"/> | 2018 | Emo rap/Minnesota
-| Call me Karizma |  The Gloomy Tapes, Vol. 2 | <img src="https://user-images.githubusercontent.com/103755136/201498478-ca18913a-082e-419b-9cef-86b263ba81ef.png" alt="Image not found" width="128" height="128"/>| 2019 | Pop rap
-| True Gabe & DJ Kadr | BACKSTAGE | <img src="/images/backstage.jpg" alt="Image not found" width="128" height="128"/> | 2020 | EDM rap/Trap
-
+| <img src="/images/zhora_vypada_vsechno_lip.jpg" alt="Image not found" width="96" height="96"/>  | Zhora Vypadá Všechno Líp | Yzomandias | 2018 | Hip hop 
+| <img src="/images/romeo.jpg" alt="Image not found" width="96" height="96"/>  | Romeo | CA$HANOVA BULHAR | 2021 | Hip hop / Trap
+| <img src="/images/made_in_strasnice.jpg" alt="Image not found" width="96" height="96"/>  | Made in Strašnice | Prago Union | 2021 | Hip hop 
+| <img src="/images/aurora.jpg" alt="Image not found" width="96" height="96"/>  | Aurora | Hasan | 2015 | Cloud rap 
+| <img src="/images/prijdu_soon.jpg" alt="Image not found" width="96" height="96"/>  | Přijdu Soon | True Gabe | 2019 | EDM rap / Trap 
+| <img src="/images/radio_rychli_kluci.jpg" alt="Image not found" width="96" height="96"/>  | RÁDIO RYCHLÍ KLUCI | KOJO | 2020 | Drill / EDM rap
+| <img src="/images/tales_from_the_tri.jpg" alt="Image not found" width="96" height="96"/>  | Tales From The Tri | Kylof Söze | 2020 | Aesthetic rap / Trap rap 
+| <img src="/images/the_gloomy_tapes_vol_1.jpg" alt="Image not found" width="96" height="96"/>  | The Gloomy Tapes, Vol. 1 | Call Me Karizma | 2018 | Emo rap / Minnesota
+| <img src="/images/the_gloomy_tapes_vol_2.jpg" alt="Image not found" width="96" height="96"/>  | The Gloomy Tapes, Vol. 2 | Call Me Karizma | 2019 | Pop rap 
+| <img src="/images/backstage.jpg" alt="Image not found" width="96" height="96"/>  | BACKSTAGE | True Gabe & DJ Kadr | 2020 | EDM rap / Trap 
 
 ## D tier
-
-| Author   |      Album/EP      |  Album Cover | Year | Genre |
+| Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| Suicideboys | DIRTYNASTY$UICIDE | <img src="https://user-images.githubusercontent.com/103755136/203419270-d495814c-2034-45b8-8600-06c05e92c515.png" alt="Image not found" width="128" height="128"/> | 2016 | Hororcore
+| <img src="/images/dirty_nasty_suicide.jpg" alt="Image not found" width="96" height="96"/>  | DIRTYNASTY$UICIDE | Suicideboys | 2016 | Hororcore 
 
 ## E tier
-
-| Author   |      Album/EP      |  Album Cover | Year | Genre |
+| Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| PTK |  TRAPPIN LONELY | <img src="https://user-images.githubusercontent.com/103755136/201498076-0feaa512-e5fd-43ea-b2a0-4cf149e160d7.png" alt="Image not found" width="128" height="128"/>| 2022 | Trap/Emo rap
-
-
+| <img src="/images/trappin_lonely.jpg" alt="Image not found" width="96" height="96"/>  | TRAPPIN LONELY | PTK | 2022 | Trap / Emo rap 
 
 ## F tier
-| Author   |      Album/EP      |  Album Cover | Year | Genre |
+| Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| Schyzo |  V. Patro | <img src="https://user-images.githubusercontent.com/103755136/201498046-934f10cc-9e7c-487f-b8ae-6a712516f9d8.png" alt="Image not found" width="128" height="128"/>| 2022 | Hip hop/Emo rap
+| <img src="/images/v_patro.jpg" alt="Image not found" width="96" height="96"/>  | V. Patro | Schyzo | 2022 | Hip hop / Emo rap 
