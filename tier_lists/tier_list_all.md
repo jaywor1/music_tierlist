@@ -28,21 +28,21 @@
 | <img src="/images/liebe_ist_fur_alle_da.png" alt="Image not found" width="96" height="96"/>  | Liebe ist für alle da (Special Edition) | Rammstein | 2009 | Industrial metal / NDH 
 | <img src="/images/kid_a.jpg" alt="Image not found" width="96" height="96"/>  | Kid A | Radiohead | 2000 | Alternative hip hop / Progressive rap
 | <img src="/images/graduation.jpg" alt="Image not found" width="96" height="96"/>  | Graduation | Kanye West | 2007 | Progressive rap
-| <img src="/images/testing.jpg" alt="Image not found" width="96" height="96"/>  | TESTING | ASAP Rocky | 2018 | Experimental hip hop
 | <img src="/images/hasan.jpg" alt="Image not found" width="96" height="96"/>  | Hasan | Hasan | 2019 | Alternative hip hop 
 | <img src="/images/come_over_when_youre_sober_pt_1.jpg" alt="Image not found" width="96" height="96"/>  | Come Over When You're Sober, Pt. 1 | Lil Peep | 2017 | Emo rap / Pop funk
 | <img src="/images/restart.jpg" alt="Image not found" width="96" height="96"/>  | Restart | Rest | 2018 | Hip hop
 | <img src="/images/tlak.jpg" alt="Image not found" width="96" height="96"/>  | Tlak | Rest | 2022 | Hip hop 
 | <img src="/images/yeezus.jpg" alt="Image not found" width="96" height="96"/>  | Yeezus | Kanye West | 2013 | Experimental rap / Alternative rap  
 | <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock 
-| <img src="/images/eternal_grey.jpg" alt="Image not found" width="96" height="96"/>  | Eternal Grey | Suicideboys | 2016 | Hororcore / Dark trap 
+| <img src="/images/fate_of_norns.jpg" alt="Image not found" width="96" height="96"/>  | Fate of Norns | Amon Amarth | 2004 | Melodic death metal  
 | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="96" height="96"/>  | So Beautiful or So What | Paul Simon | 2011 | Folk rock 
 
 
 ## B tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| <img src="/images/fate_of_norns.jpg" alt="Image not found" width="96" height="96"/>  | Fate of Norns | Amon Amarth | 2004 | Melodic death metal  
+| <img src="/images/testing.jpg" alt="Image not found" width="96" height="96"/>  | TESTING | ASAP Rocky | 2018 | Experimental hip hop
+| <img src="/images/eternal_grey.jpg" alt="Image not found" width="96" height="96"/>  | Eternal Grey | Suicideboys | 2016 | Hororcore / Dark trap 
 | <img src="/images/hybrid_theory.jpg" alt="Image not found" width="96" height="96"/>  | Hybrid Theory | Linkin Park | 2000 | Nu metal / Rap metal 
 | <img src="/images/my_liver_will_handle_what_my_heart_cant.jpg" alt="Image not found" width="96" height="96"/>  | My Liver Will Handle What My Heart Can't | Suicideboys | 2015 | Shadow rap 
 | <img src="/images/i_want_to_die_in_new_orleans.jpg" alt="Image not found" width="96" height="96"/>  | I Want to Die in New Orleans | Suicideboys | 2018 | Shadow rap
