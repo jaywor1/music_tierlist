@@ -27,11 +27,12 @@
 | <img src="/images/teorie_padu.jpg" alt="Image not found" width="96" height="96"/> | Teorie pádu | Stein27 | 2020 | Rap metal/Emo rap
 | <img src="/images/ocean.jpg" alt="Image not found" width="96" height="96"/> |  Oceán | Hasan | 2016 | Alternative hip hop
 | <img src="/images/loft.jpg" alt="Image not found" width="96" height="96"/> |  Loft | Hasan | 2017 | Cloud rap
-| <img src="/images/jentak.jpg" alt="Image not found" width="96" height="96"/> | JENTAK | Ben Cristovao | 2021 | Pop rock/R&B
+
 
 ## C tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/zhora_vypada_vsechno_lip.jpg" alt="Image not found" width="96" height="96"/> |  Zhora Vypadá Všechno Líp | Yzomandias | 2018 | Hip hop
 | <img src="/images/vulture_culture.jpg" alt="Image not found" width="96" height="96"/> | Vulture Culture | True Gabe | 2021 | Rap/EDM Rap
 | <img src="/images/everyday_is_may.jpg" alt="Image not found" width="96" height="96"/> | Everyday is May | Dorian | 2022 | Progressive rap/Trap
 | <img src="/images/j_eden_egen.jpg" alt="Image not found" width="96" height="96"/>  |  J. EDEN E-GEN | Yzomandias | 2021 | Trap
@@ -39,7 +40,6 @@
 ## D tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| <img src="/images/zhora_vypada_vsechno_lip.jpg" alt="Image not found" width="96" height="96"/> |  Zhora Vypadá Všechno Líp | Yzomandias | 2018 | Hip hop
 | <img src="/images/romeo.jpg" alt="Image not found" width="96" height="96"/> |  Romeo | CA$ANOVA BULHAR | 2021 | Hip hop/Trap
 | <img src="/images/made_in_strasnice.jpg" alt="Image not found" width="96" height="96"/> | Made in Strašnice | Prago Union | 2021 | Hip hop
 | <img src="/images/aurora.jpg" alt="Image not found" width="96" height="96"/> |  Aurora | Hasan | 2015 | Cloud rap
@@ -49,6 +49,7 @@
 ## E tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/jentak.jpg" alt="Image not found" width="96" height="96"/> | JENTAK | Ben Cristovao | 2021 | Pop rock/R&B
 | <img src="/images/backstage.jpg" alt="Image not found" width="96" height="96"/>  | BACKSTAGE | True Gabe & DJ Kadr | 2020 | EDM rap/Trap
 | <img src="/images/trappin_lonely.jpg" alt="Image not found" width="96" height="96"/> |  TRAPPIN LONELY | PTK | 2022 | Trap/Emo rap
 

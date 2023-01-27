@@ -47,9 +47,9 @@
 | <img src="/images/my_liver_will_handle_what_my_heart_cant.jpg" alt="Image not found" width="96" height="96"/>  | My Liver Will Handle What My Heart Can't | Suicideboys | 2015 | Shadow rap 
 | <img src="/images/i_want_to_die_in_new_orleans.jpg" alt="Image not found" width="96" height="96"/>  | I Want to Die in New Orleans | Suicideboys | 2018 | Shadow rap
 | <img src="/images/plagues.jpg" alt="Image not found" width="96" height="96"/>  | Plagues | Ghostemane | 2016 | Cloud rap / Hardcore hip hop
-| <img src="/images/suicidal_hippie.jpg" alt="Image not found" width="96" height="96"/>  | Suicidal Hippie | Redzed | 2020 | Rapcore / Rap rock  
 | <img src="/images/prototyp_upgrade.jpg" alt="Image not found" width="96" height="96"/>  | Prototyp: Upgrade | Hasan | 2021 | Alternative hip hop 
 | <img src="/images/bohemian_psycho.jpg" alt="Image not found" width="96" height="96"/>  | Bohemian Psycho | Redzed | 2019 | Dark trap 
+| <img src="/images/suicidal_hippie.jpg" alt="Image not found" width="96" height="96"/>  | Suicidal Hippie | Redzed | 2020 | Rapcore / Rap rock  
 | <img src="/images/barvy.jpg" alt="Image not found" width="96" height="96"/>  | Barvy | Viktor Sheen | 2020 | Hip hop / Trap  
 | <img src="/images/echo.jpg" alt="Image not found" width="96" height="96"/>  | Echo | Hasan | 2021 | Only instrumental / beats 
 | <img src="/images/teorie_padu.jpg" alt="Image not found" width="96" height="96"/>  | Teorie pádu | Stein27 | 2020 | Emo rap
@@ -65,6 +65,7 @@
 ## C tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/loft.jpg" alt="Image not found" width="96" height="96"/>  | Loft | Hasan | 2017 | Cloud rap 
 | <img src="/images/zhora_vypada_vsechno_lip.jpg" alt="Image not found" width="96" height="96"/>  | Zhora Vypadá Všechno Líp | Yzomandias | 2018 | Hip hop 
 | <img src="/images/vulture_culture.jpg" alt="Image not found" width="96" height="96"/>  | Vulture Culture | True Gabe | 2021 | EDM rap 
 | <img src="/images/everyday_is_may.jpg" alt="Image not found" width="96" height="96"/>  | Everyday is May | Dorian | 2022 | Trap 
