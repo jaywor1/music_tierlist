@@ -1,6 +1,6 @@
 # Metal Tier List
 
-### Album/EP count: 14
+### Album/EP count: 15
 
 ### Authors count: 9
 
@@ -10,8 +10,9 @@
 | <img src="/images/ride_the_lightning.jpg" alt="Image not found" width="96" height="96"/>  | Ride The Lightning | Metallica | 1984 | Thrash metal
 | <img src="/images/metallica.jpg" alt="Image not found" width="96" height="96"/>  | Metallica | Metallica | 1991 | Heavy metal
 | <img src="/images/mutter.jpg" alt="Image not found" width="96" height="96"/>  | Mutter | Rammstein | 2001 |  	Industrial metal / NDH
-| <img src="/images/perfect_strangers.jpg" alt="Image not found" width="96" height="96"/>  | Toxicity | System Of A Down | 2001 | Nu metal / Alternative metal
+| <img src="/images/perfect_strangers.jpg" alt="Image not found" width="96" height="96"/>  | Perfect Strangers | Deep Purple | 1984 | Hard rock / Heavy metal
 | <img src="/images/meteora.jpg" alt="Image not found" width="96" height="96"/>  | Meteora | Linkin Park | 2003 | Nu metal
+| <img src="/images/toxicity.jpg" alt="Image not found" width="96" height="96"/>  | Toxicity | System Of A Down | 2001 | Nu metal / Alternative metal
 
 ## A tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
