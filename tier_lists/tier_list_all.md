@@ -13,6 +13,9 @@
 | <img src="/images/led_zeppelin.jpg" alt="Image not found" width="96" height="96"/>  | Led Zeppelin | Led Zeppelin | 1969 | Blues rock / Hard rock 
 | <img src="/images/use_your_illusion_I.jpg" alt="Image not found" width="96" height="96"/>  | Use Your Ilusion I | Guns N' Roses | 1991 | Hard rock
 | <img src="/images/perfect_strangers.jpg" alt="Image not found" width="96" height="96"/>  | Perfect Strangers | Deep Purple | 1984 | Hard rock / Heavy metal  
+| <img src="/images/meteora.jpg" alt="Image not found" width="96" height="96"/>  | Toxicity | Deep Purple | 1984 | Hard rock / Heavy metal  
+| <img src="/images/toxicity.jpg" alt="Image not found" width="96" height="96"/>  | Perfect Strangers | Deep Purple | 1984 | Hard rock / Heavy metal  
+| <img src="/images/my_beautiful_dark_twisted_fantasy.jpg" alt="Image not found" width="96" height="96"/>  | My Beautiful Dark Twisted Fantasy | Deep Purple | 1984 | Hard rock / Heavy metal  
 
 
 ## A tier
