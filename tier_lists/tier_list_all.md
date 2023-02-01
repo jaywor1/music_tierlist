@@ -1,8 +1,8 @@
 # List of every album/EP I've ever heard
 
-### Album/EP count: 64
+### Album/EP count: 65
 
-### Authors count: 38 
+### Authors count: 39
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
