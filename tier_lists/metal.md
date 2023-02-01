@@ -1,8 +1,8 @@
 # Metal Tier List
 
-### Album/EP count: 16
+### Album/EP count: 17
 
-### Authors count: 10
+### Authors count: 11
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -11,6 +11,7 @@
 | <img src="/images/metallica.jpg" alt="Image not found" width="96" height="96"/>  | Metallica | Metallica | 1991 | Heavy metal
 | <img src="/images/mutter.jpg" alt="Image not found" width="96" height="96"/>  | Mutter | Rammstein | 2001 |  	Industrial metal / NDH
 | <img src="/images/perfect_strangers.jpg" alt="Image not found" width="96" height="96"/>  | Perfect Strangers | Deep Purple | 1984 | Hard rock / Heavy metal
+| <img src="/images/paranoid.jpg" alt="Image not found" width="96" height="96"/>  | Paranoid | Black Sabbath | 1970 | Heavy metal
 | <img src="/images/meteora.jpg" alt="Image not found" width="96" height="96"/>  | Meteora | Linkin Park | 2003 | Nu metal
 | <img src="/images/toxicity.jpg" alt="Image not found" width="96" height="96"/>  | Toxicity | System Of A Down | 2001 | Nu metal / Alternative metal
 

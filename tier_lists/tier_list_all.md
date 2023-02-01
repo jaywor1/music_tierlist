@@ -1,8 +1,8 @@
 # List of every album/EP I've ever heard
 
-### Album/EP count: 65
+### Album/EP count: 66
 
-### Authors count: 39
+### Authors count: 40
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -13,6 +13,7 @@
 | <img src="/images/led_zeppelin.jpg" alt="Image not found" width="96" height="96"/>  | Led Zeppelin | Led Zeppelin | 1969 | Blues rock / Hard rock 
 | <img src="/images/use_your_illusion_I.jpg" alt="Image not found" width="96" height="96"/>  | Use Your Ilusion I | Guns N' Roses | 1991 | Hard rock
 | <img src="/images/perfect_strangers.jpg" alt="Image not found" width="96" height="96"/>  | Perfect Strangers | Deep Purple | 1984 | Hard rock / Heavy metal  
+| <img src="/images/paranoid.jpg" alt="Image not found" width="96" height="96"/>  | Paranoid | Black Sabbath | 1970 | Heavy metal
 | <img src="/images/meteora.jpg" alt="Image not found" width="96" height="96"/>  | Meteora | Linkin Park | 2003 | Nu metal
 | <img src="/images/toxicity.jpg" alt="Image not found" width="96" height="96"/>  | Toxicity | System Of A Down | 2001 | Nu metal / Alternative metal
 | <img src="/images/my_beautiful_dark_twisted_fantasy.jpg" alt="Image not found" width="96" height="96"/>  | My Beautiful Dark Twisted Fantasy | Kanye West | 2010 | Progressive rap / Rap opera  
