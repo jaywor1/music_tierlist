@@ -1,8 +1,8 @@
 # Worldwide Tier List
 
-### Album/EP count: 44
+### Album/EP count: 45
 
-### Authors count: 26
+### Authors count: 27
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
