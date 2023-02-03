@@ -4,8 +4,12 @@ My **subjective** tier list on albums/EPs.
 
 ### Album/EP count: 66
 
-- ### [List of every album/EP I've ever heard](https://github.com/jaywor1/music_tierlist/blob/main/tier_lists/tier_list_all.md)
+## Worldwide
 
-- ### [Czech Tierlist](https://github.com/jaywor1/music_tierlist/blob/main/tier_lists/czech_tier_list.md)
+- ### [All Worldwide Albums/EPs](https://github.com/jaywor1/music_tierlist/blob/main/tier_lists/worldwide/worldwide.md)
 
-- ### [Metal Tierlist](https://github.com/jaywor1/music_tierlist/blob/main/tier_lists/metal.md)
+- ### [Metal](https://github.com/jaywor1/music_tierlist/blob/main/tier_lists/metal.md)
+
+## Czech Scene
+
+- ### [All Czech Scene Albums/EPs](https://github.com/jaywor1/music_tierlist/blob/main/tier_lists/czech_tier_list.md)
