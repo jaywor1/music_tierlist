@@ -24,6 +24,7 @@
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/thriller.jpg" alt="Image not found" width="96" height="96"/>  | Thriller | Michael Jackson | 1982 | R&B / Funk 
 | <img src="/images/all_hope_is_gone.jpg" alt="Image not found" width="96" height="96"/>  | All Hope Is Gone (Deluxe) | Slipknot | 2008 | Groove metal 
+| <img src="/images/sheer_heart_attack.jpg" alt="Image not found" width="96" height="96"/>  | Sheer Heart Attack | Queen | 1974 | Hard rock / Glam rock
 | <img src="/images/reise_reise.jpg" alt="Image not found" width="96" height="96"/>  | REISE, REISE | Rammstein | 2004 | Industrial metal / NDH
 | <img src="/images/the_serenity_of_suffering.jpg" alt="Image not found" width="96" height="96"/>  | The Serenity of Suffering | Korn | 2016 | Nu metal / Alternative metal
 | <img src="/images/kill_em_all.jpg" alt="Image not found" width="96" height="96"/>  | Kill 'Em All | Metallica | 1983 | Tharsh metal / Heavy metal
