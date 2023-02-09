@@ -1,8 +1,8 @@
 # Rock Tier List
 
-### Album/EP count: 10
+### Album/EP count: 11
 
-### Authors count: 9
+### Authors count: 10
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -19,6 +19,7 @@
 | <img src="/images/sheer_heart_attack.jpg" alt="Image not found" width="96" height="96"/>  | Sheer Heart Attack | Queen | 1974 | Hard rock / Glam rock
 | <img src="/images/made_in_japan.jpg" alt="Image not found" width="96" height="96"/>  | Made In Japan | Deep Purple | 1972 | Hard rock / Heavy metal 
 | <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock 
+| <img src="/images/black_monk_time.jpg" alt="Image not found" width="96" height="96"/>  | Black Monk Time | Monks | 1966 | Garage rock / Proto-punk
 | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="96" height="96"/>  | So Beautiful or So What | Paul Simon | 2011 | Folk rock 
 
 
