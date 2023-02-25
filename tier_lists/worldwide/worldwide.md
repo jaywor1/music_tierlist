@@ -1,8 +1,8 @@
 # Worldwide Tier List
 
-### Album/EP count: 47
+### Album/EP count: 48
 
-### Authors count: 29
+### Authors count: 30
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -49,6 +49,7 @@
 | <img src="/images/hybrid_theory.jpg" alt="Image not found" width="96" height="96"/>  | Hybrid Theory | Linkin Park | 2000 | Nu metal / Rap metal 
 | <img src="/images/yeezus.jpg" alt="Image not found" width="96" height="96"/>  | Yeezus | Kanye West | 2013 | Experimental rap / Alternative rap  
 | <img src="/images/my_liver_will_handle_what_my_heart_cant.jpg" alt="Image not found" width="96" height="96"/>  | My Liver Will Handle What My Heart Can't | Suicideboys | 2015 | Shadow rap 
+| <img src="/images/the_fat_of_the_land.jpg" alt="Image not found" width="96" height="96"/>  | The Fat of the Land | Prodigy | 1997 | Electronpunk / Big beat
 | <img src="/images/i_want_to_die_in_new_orleans.jpg" alt="Image not found" width="96" height="96"/>  | I Want to Die in New Orleans | Suicideboys | 2018 | Shadow rap
 | <img src="/images/plagues.jpg" alt="Image not found" width="96" height="96"/>  | Plagues | Ghostemane | 2016 | Cloud rap / Hardcore hip hop
 | <img src="/images/bohemian_psycho.jpg" alt="Image not found" width="96" height="96"/>  | Bohemian Psycho | Redzed | 2019 | Dark trap 
