@@ -1,8 +1,8 @@
 # Worldwide Tier List
 
-### Album/EP count: 48
+### Album/EP count: 49
 
-### Authors count: 30
+### Authors count: 31
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -29,6 +29,7 @@
 | <img src="/images/reise_reise.jpg" alt="Image not found" width="96" height="96"/>  | REISE, REISE | Rammstein | 2004 | Industrial metal / NDH
 | <img src="/images/the_serenity_of_suffering.jpg" alt="Image not found" width="96" height="96"/>  | The Serenity of Suffering | Korn | 2016 | Nu metal / Alternative metal
 | <img src="/images/kill_em_all.jpg" alt="Image not found" width="96" height="96"/>  | Kill 'Em All | Metallica | 1983 | Tharsh metal / Heavy metal
+| <img src="/images/the_battle_of_los_angeles.jpg" alt="Image not found" width="96" height="96"/>  | The Battle of Los Angeles | Rage Against The Machine | 1999 | Funk metal / Nu metal
 | <img src="/images/anti_icon.jpg" alt="Image not found" width="96" height="96"/>  | ANTI-ICON | Ghostemane | 2020 | Hardcore punk / Rap metal
 | <img src="/images/made_in_japan.jpg" alt="Image not found" width="96" height="96"/>  | Made In Japan | Deep Purple | 1972 | Hard rock / Heavy metal
 | <img src="/images/black_monk_time.jpg" alt="Image not found" width="96" height="96"/>  | Black Monk Time | Monks | 1966 | Garage rock / Proto-punk 
