@@ -1,6 +1,6 @@
 # Rap Tier List
 
-### Album/EP count: 20
+### Album/EP count: 21
 
 ### Authors count: 10
 
@@ -13,6 +13,7 @@
 ## A tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/noise.jpg" alt="Image not found" width="96" height="96"/>  | N / O / I / S / E | Ghostemane | 2018 | Industrial hip hop / Horrorcore
 | <img src="/images/anti_icon.jpg" alt="Image not found" width="96" height="96"/>  | ANTI-ICON | Ghostemane | 2020 | Hardcore punk / Rap metal
 | <img src="/images/kid_a.jpg" alt="Image not found" width="96" height="96"/>  | Kid A | Radiohead | 2000 | Alternative hip hop / Progressive rap
 | <img src="/images/graduation.jpg" alt="Image not found" width="96" height="96"/>  | Graduation | Kanye West | 2007 | Progressive rap
