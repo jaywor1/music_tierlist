@@ -1,8 +1,8 @@
 # Rock Tier List
 
-### Album/EP count: 12
+### Album/EP count: 13
 
-### Authors count: 11
+### Authors count: 12
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -22,7 +22,7 @@
 | <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock 
 | <img src="/images/black_monk_time.jpg" alt="Image not found" width="96" height="96"/>  | Black Monk Time | Monks | 1966 | Garage rock / Proto-punk
 | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="96" height="96"/>  | So Beautiful or So What | Paul Simon | 2011 | Folk rock 
-
+| <img src="/images/pretty_hate_machine.jpg" alt="Image not found" width="96" height="96"/>  | Pretty Hate Machine | Nine Inch Nails | 1989 | Industrial rock / Electronic rock
 
 ## B tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |

@@ -1,8 +1,8 @@
 # Worldwide Tier List
 
-### Album/EP count: 50
+### Album/EP count: 51
 
-### Authors count: 31
+### Authors count: 32
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -41,7 +41,7 @@
 | <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock 
 | <img src="/images/fate_of_norns.jpg" alt="Image not found" width="96" height="96"/>  | Fate of Norns | Amon Amarth | 2004 | Melodic death metal  
 | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="96" height="96"/>  | So Beautiful or So What | Paul Simon | 2011 | Folk rock 
-
+| <img src="/images/pretty_hate_machine.jpg" alt="Image not found" width="96" height="96"/>  | Pretty Hate Machine | Nine Inch Nails | 1989 | Industrial rock / Electronic rock
 
 ## B tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
