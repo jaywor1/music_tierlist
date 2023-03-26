@@ -32,6 +32,10 @@
 | <img src="/images/the_battle_of_los_angeles.jpg" alt="Image not found" width="96" height="96"/>  | The Battle of Los Angeles | Rage Against The Machine | 1999 | Funk metal / Nu metal
 | <img src="/images/noise.jpg" alt="Image not found" width="96" height="96"/>  | N / O / I / S / E | Ghostemane | 2018 | Industrial hip hop / Horrorcore
 | <img src="/images/anti_icon.jpg" alt="Image not found" width="96" height="96"/>  | ANTI-ICON | Ghostemane | 2020 | Hardcore punk / Rap metal
+
+## B tier
+| Album Cover   |      Album/EP      |  Author | Year | Genre |
+|:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/made_in_japan.jpg" alt="Image not found" width="96" height="96"/>  | Made In Japan | Deep Purple | 1972 | Hard rock / Heavy metal
 | <img src="/images/black_monk_time.jpg" alt="Image not found" width="96" height="96"/>  | Black Monk Time | Monks | 1966 | Garage rock / Proto-punk 
 | <img src="/images/liebe_ist_fur_alle_da.png" alt="Image not found" width="96" height="96"/>  | Liebe ist für alle da (Special Edition) | Rammstein | 2009 | Industrial metal / NDH 
@@ -43,7 +47,7 @@
 | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="96" height="96"/>  | So Beautiful or So What | Paul Simon | 2011 | Folk rock 
 | <img src="/images/pretty_hate_machine.jpg" alt="Image not found" width="96" height="96"/>  | Pretty Hate Machine | Nine Inch Nails | 1989 | Industrial rock / Electronic rock
 
-## B tier
+## C tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/testing.jpg" alt="Image not found" width="96" height="96"/>  | TESTING | ASAP Rocky | 2018 | Experimental hip hop
@@ -61,26 +65,21 @@
 | <img src="/images/heavy_rockin_steady.jpg" alt="Image not found" width="96" height="96"/>  | Heavy Rockin' Steady | Beatchild & The Slakadeliqs | 2018 | Rocksteady / Soul 
 | <img src="/images/south_side_suicide.jpg" alt="Image not found" width="96" height="96"/>  | $outh $ide $uicide | Suicideboys | 2015 | Shadow rap 
 
-
-## C tier
-| Album Cover   |      Album/EP      |  Author | Year | Genre |
-|:--------:|:------------------:|:------------:|:----:|:-----:|
-| <img src="/images/once.jpg" alt="Image not found" width="96" height="96"/>  | Once | Nightwish | 2004 | Symphonic metal 
-| <img src="/images/thats_the_spirit.jpg" alt="Image not found" width="96" height="96"/>  | That's The Spirit | Bring Me The Horizon | 2015 | Alternative rock / Electronic rock 
-
 ## D tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/once.jpg" alt="Image not found" width="96" height="96"/>  | Once | Nightwish | 2004 | Symphonic metal 
+
+## E tier
+| Album Cover   |      Album/EP      |  Author | Year | Genre |
+|:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/thats_the_spirit.jpg" alt="Image not found" width="96" height="96"/>  | That's The Spirit | Bring Me The Horizon | 2015 | Alternative rock / Electronic rock 
 | <img src="/images/tales_from_the_tri.jpg" alt="Image not found" width="96" height="96"/>  | Tales From The Tri | Kylof Söze | 2020 | Aesthetic rap / Trap rap 
 | <img src="/images/the_gloomy_tapes_vol_1.jpg" alt="Image not found" width="96" height="96"/>  | The Gloomy Tapes, Vol. 1 | Call Me Karizma | 2018 | Emo rap / Minnesota
 | <img src="/images/the_gloomy_tapes_vol_2.jpg" alt="Image not found" width="96" height="96"/>  | The Gloomy Tapes, Vol. 2 | Call Me Karizma | 2019 | Pop rap 
 
 
-## E tier
+## F tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/dirty_nasty_suicide.jpg" alt="Image not found" width="96" height="96"/>  | DIRTYNASTY$UICIDE | Suicideboys | 2016 | Hororcore 
-
-
-## F tier
-nothing yet
