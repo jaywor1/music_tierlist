@@ -15,6 +15,7 @@
 | <img src="/images/perfect_strangers.jpg" alt="Image not found" width="96" height="96"/>  | Perfect Strangers | Deep Purple | 1984 | Hard rock / Heavy metal  
 | <img src="/images/paranoid.jpg" alt="Image not found" width="96" height="96"/>  | Paranoid | Black Sabbath | 1970 | Heavy metal
 | <img src="/images/meteora.jpg" alt="Image not found" width="96" height="96"/>  | Meteora | Linkin Park | 2003 | Nu metal
+| <img src="/images/all_hope_is_gone.jpg" alt="Image not found" width="96" height="96"/>  | All Hope Is Gone (Deluxe) | Slipknot | 2008 | Groove metal 
 | <img src="/images/toxicity.jpg" alt="Image not found" width="96" height="96"/>  | Toxicity | System Of A Down | 2001 | Nu metal / Alternative metal
 | <img src="/images/my_beautiful_dark_twisted_fantasy.jpg" alt="Image not found" width="96" height="96"/>  | My Beautiful Dark Twisted Fantasy | Kanye West | 2010 | Progressive rap / Rap opera  
 
@@ -23,7 +24,6 @@
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/thriller.jpg" alt="Image not found" width="96" height="96"/>  | Thriller | Michael Jackson | 1982 | R&B / Funk 
-| <img src="/images/all_hope_is_gone.jpg" alt="Image not found" width="96" height="96"/>  | All Hope Is Gone (Deluxe) | Slipknot | 2008 | Groove metal 
 | <img src="/images/godsmack.jpg" alt="Image not found" width="96" height="96"/> | Godsmack | Godsmack | 1998 | Alternative metal / Hard rock
 | <img src="/images/sheer_heart_attack.jpg" alt="Image not found" width="96" height="96"/>  | Sheer Heart Attack | Queen | 1974 | Hard rock / Glam rock
 | <img src="/images/reise_reise.jpg" alt="Image not found" width="96" height="96"/>  | REISE, REISE | Rammstein | 2004 | Industrial metal / NDH

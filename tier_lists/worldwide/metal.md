@@ -13,12 +13,12 @@
 | <img src="/images/perfect_strangers.jpg" alt="Image not found" width="96" height="96"/>  | Perfect Strangers | Deep Purple | 1984 | Hard rock / Heavy metal
 | <img src="/images/paranoid.jpg" alt="Image not found" width="96" height="96"/>  | Paranoid | Black Sabbath | 1970 | Heavy metal
 | <img src="/images/meteora.jpg" alt="Image not found" width="96" height="96"/>  | Meteora | Linkin Park | 2003 | Nu metal
+| <img src="/images/all_hope_is_gone.jpg" alt="Image not found" width="96" height="96"/>  | All Hope Is Gone (Deluxe) | Slipknot | 2008 | Groove metal 
 | <img src="/images/toxicity.jpg" alt="Image not found" width="96" height="96"/>  | Toxicity | System Of A Down | 2001 | Nu metal / Alternative metal
 
 ## A tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| <img src="/images/all_hope_is_gone.jpg" alt="Image not found" width="96" height="96"/>  | All Hope Is Gone (Deluxe) | Slipknot | 2008 | Groove metal 
 | <img src="/images/godsmack.jpg" alt="Image not found" width="96" height="96"/> | Godsmack | Godsmack | 1998 | Alternative metal / Hard rock
 | <img src="/images/reise_reise.jpg" alt="Image not found" width="96" height="96"/>  | REISE, REISE | Rammstein | 2004 | Industrial metal / NDH
 | <img src="/images/the_serenity_of_suffering.jpg" alt="Image not found" width="96" height="96"/>  | The Serenity of Suffering | Korn | 2016 | Nu metal / Alternative metal
