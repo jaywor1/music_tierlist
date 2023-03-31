@@ -1,12 +1,13 @@
 # Metal Tier List
 
-### Album/EP count: 19
+### Album/EP count: 20
 
 ### Authors count: 13
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/and_justice_for_all.jpg" alt="Image not found" width="96" height="96"/>  | ...And Justice for All | Metallica | 1988 | Thrash metal / Progressive metal
 | <img src="/images/ride_the_lightning.jpg" alt="Image not found" width="96" height="96"/>  | Ride The Lightning | Metallica | 1984 | Thrash metal
 | <img src="/images/metallica.jpg" alt="Image not found" width="96" height="96"/>  | Metallica | Metallica | 1991 | Heavy metal
 | <img src="/images/mutter.jpg" alt="Image not found" width="96" height="96"/>  | Mutter | Rammstein | 2001 |  	Industrial metal / NDH
