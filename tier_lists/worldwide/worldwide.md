@@ -1,6 +1,6 @@
 # Worldwide Tier List
 
-### Album/EP count: 53
+### Album/EP count: 54
 
 ### Authors count: 33
 
@@ -17,6 +17,7 @@
 | <img src="/images/paranoid.jpg" alt="Image not found" width="96" height="96"/>  | Paranoid | Black Sabbath | 1970 | Heavy metal
 | <img src="/images/meteora.jpg" alt="Image not found" width="96" height="96"/>  | Meteora | Linkin Park | 2003 | Nu metal
 | <img src="/images/all_hope_is_gone.jpg" alt="Image not found" width="96" height="96"/>  | All Hope Is Gone (Deluxe) | Slipknot | 2008 | Groove metal 
+| <img src="/images/the_nothing.jpg" alt="Image not found" width="96" height="96"/>  | The Nothing | Korn | 2019 | Nu metal
 | <img src="/images/toxicity.jpg" alt="Image not found" width="96" height="96"/>  | Toxicity | System Of A Down | 2001 | Nu metal / Alternative metal
 | <img src="/images/my_beautiful_dark_twisted_fantasy.jpg" alt="Image not found" width="96" height="96"/>  | My Beautiful Dark Twisted Fantasy | Kanye West | 2010 | Progressive rap / Rap opera  
 

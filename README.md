@@ -2,7 +2,7 @@
 
 My **subjective** tier list on albums/EPs.
 
-### Album/EP count: 75
+### Album/EP count: 76
 
 ## Worldwide
 

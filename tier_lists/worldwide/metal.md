@@ -1,6 +1,6 @@
 # Metal Tier List
 
-### Album/EP count: 20
+### Album/EP count: 21
 
 ### Authors count: 13
 
@@ -15,6 +15,7 @@
 | <img src="/images/paranoid.jpg" alt="Image not found" width="96" height="96"/>  | Paranoid | Black Sabbath | 1970 | Heavy metal
 | <img src="/images/meteora.jpg" alt="Image not found" width="96" height="96"/>  | Meteora | Linkin Park | 2003 | Nu metal
 | <img src="/images/all_hope_is_gone.jpg" alt="Image not found" width="96" height="96"/>  | All Hope Is Gone (Deluxe) | Slipknot | 2008 | Groove metal 
+| <img src="/images/the_nothing.jpg" alt="Image not found" width="96" height="96"/>  | The Nothing | Korn | 2019 | Nu metal
 | <img src="/images/toxicity.jpg" alt="Image not found" width="96" height="96"/>  | Toxicity | System Of A Down | 2001 | Nu metal / Alternative metal
 
 ## A tier
