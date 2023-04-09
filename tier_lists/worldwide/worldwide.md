@@ -1,6 +1,6 @@
 # Worldwide Tier List
 
-### Album/EP count: 54
+### Album/EP count: 55
 
 ### Authors count: 33
 
@@ -44,7 +44,8 @@
 | <img src="/images/kid_a.jpg" alt="Image not found" width="96" height="96"/>  | Kid A | Radiohead | 2000 | Alternative hip hop / Progressive rap
 | <img src="/images/graduation.jpg" alt="Image not found" width="96" height="96"/>  | Graduation | Kanye West | 2007 | Progressive rap
 | <img src="/images/come_over_when_youre_sober_pt_1.jpg" alt="Image not found" width="96" height="96"/>  | Come Over When You're Sober, Pt. 1 | Lil Peep | 2017 | Emo rap / Pop funk
-| <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock 
+| <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock
+| <img src="/images/hexada.jpg" alt="Image not found" width="96" height="96"/> | Ghostemane | Hexada | 2017 | Industrial hip hop / Hardcore rap
 | <img src="/images/fate_of_norns.jpg" alt="Image not found" width="96" height="96"/>  | Fate of Norns | Amon Amarth | 2004 | Melodic death metal  
 | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="96" height="96"/>  | So Beautiful or So What | Paul Simon | 2011 | Folk rock 
 | <img src="/images/pretty_hate_machine.jpg" alt="Image not found" width="96" height="96"/>  | Pretty Hate Machine | Nine Inch Nails | 1989 | Industrial rock / Electronic rock

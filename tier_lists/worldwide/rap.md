@@ -1,6 +1,6 @@
 # Rap Tier List
 
-### Album/EP count: 21
+### Album/EP count: 22
 
 ### Authors count: 10
 
@@ -22,7 +22,7 @@
 | <img src="/images/kid_a.jpg" alt="Image not found" width="96" height="96"/>  | Kid A | Radiohead | 2000 | Alternative hip hop / Progressive rap
 | <img src="/images/graduation.jpg" alt="Image not found" width="96" height="96"/>  | Graduation | Kanye West | 2007 | Progressive rap
 | <img src="/images/come_over_when_youre_sober_pt_1.jpg" alt="Image not found" width="96" height="96"/>  | Come Over When You're Sober, Pt. 1 | Lil Peep | 2017 | Emo rap / Pop funk
-
+| <img src="/images/hexada.jpg" alt="Image not found" width="96" height="96"/> | Ghostemane | Hexada | 2017 | Industrial hip hop / Hardcore rap
 
 ## C tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
