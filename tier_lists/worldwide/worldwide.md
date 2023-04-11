@@ -1,8 +1,8 @@
 # Worldwide Tier List
 
-### Album/EP count: 55
+### Album/EP count: 56
 
-### Authors count: 33
+### Authors count: 37
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -77,6 +77,7 @@
 ## E tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/liebe_in_zeiten_der_kola.jpg" alt="Image not found" width="96" height="96"/>  | Liebe In Zeiten Der Kola | Brutalismus 3000 | 2020 | Hardcore EDM
 | <img src="/images/thats_the_spirit.jpg" alt="Image not found" width="96" height="96"/>  | That's The Spirit | Bring Me The Horizon | 2015 | Alternative rock / Electronic rock 
 | <img src="/images/tales_from_the_tri.jpg" alt="Image not found" width="96" height="96"/>  | Tales From The Tri | Kylof Söze | 2020 | Aesthetic rap / Trap rap 
 | <img src="/images/the_gloomy_tapes_vol_1.jpg" alt="Image not found" width="96" height="96"/>  | The Gloomy Tapes, Vol. 1 | Call Me Karizma | 2018 | Emo rap / Minnesota
