@@ -31,22 +31,23 @@
 ## B tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| <img src="/images/liebe_ist_fur_alle_da.png" alt="Image not found" width="96" height="96"/>  | Liebe ist für alle da (Special Edition) | Rammstein | 2009 | Industrial metal / NDH
 | <img src="/images/made_in_japan.jpg" alt="Image not found" width="96" height="96"/>  | Made In Japan | Deep Purple | 1972 | Hard rock / Heavy metal
+| <img src="/images/liebe_ist_fur_alle_da.png" alt="Image not found" width="96" height="96"/>  | Liebe ist für alle da (Special Edition) | Rammstein | 2009 | Industrial metal / NDH
 | <img src="/images/fear_network.jpg" alt="Image not found" width="96" height="96"/>  | Fear Network | Ghostemane | 2019 | Industrial metal
-| <img src="/images/hybrid_theory.jpg" alt="Image not found" width="96" height="96"/>  | Hybrid Theory | Linkin Park | 2000 | Nu metal / Rap metal
 
 
 ## C tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/hybrid_theory.jpg" alt="Image not found" width="96" height="96"/>  | Hybrid Theory | Linkin Park | 2000 | Nu metal / Rap metal
 | <img src="/images/fate_of_norns.jpg" alt="Image not found" width="96" height="96"/>  | Fate of Norns | Amon Amarth | 2004 | Melodic death metal
-| <img src="/images/once.jpg" alt="Image not found" width="96" height="96"/>  | Once | Nightwish | 2004 | Symphonic metal
 
 
 
 ## D tier
-nothing yet
+| Album Cover   |      Album/EP      |  Author | Year | Genre |
+|:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/once.jpg" alt="Image not found" width="96" height="96"/>  | Once | Nightwish | 2004 | Symphonic metal
 
 
 ## E tier

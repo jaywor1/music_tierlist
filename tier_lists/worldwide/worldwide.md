@@ -47,7 +47,6 @@
 | <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock
 | <img src="/images/hexada.jpg" alt="Image not found" width="96" height="96"/> | Ghostemane | Hexada | 2017 | Industrial hip hop / Hardcore rap
 | <img src="/images/fear_network.jpg" alt="Image not found" width="96" height="96"/>  | Fear Network | Ghostemane | 2019 | Industrial metal
-| <img src="/images/fate_of_norns.jpg" alt="Image not found" width="96" height="96"/>  | Fate of Norns | Amon Amarth | 2004 | Melodic death metal  
 | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="96" height="96"/>  | So Beautiful or So What | Paul Simon | 2011 | Folk rock 
 | <img src="/images/pretty_hate_machine.jpg" alt="Image not found" width="96" height="96"/>  | Pretty Hate Machine | Nine Inch Nails | 1989 | Industrial rock / Electronic rock
 | <img src="/images/youthquake.jpg" alt="Image not found" width="96" height="96"/>  | Youthquake | Dead or Alive | 1985 | Synth pop
@@ -58,6 +57,7 @@
 | <img src="/images/testing.jpg" alt="Image not found" width="96" height="96"/>  | TESTING | ASAP Rocky | 2018 | Experimental hip hop
 | <img src="/images/eternal_grey.jpg" alt="Image not found" width="96" height="96"/>  | Eternal Grey | Suicideboys | 2016 | Hororcore / Dark trap 
 | <img src="/images/hybrid_theory.jpg" alt="Image not found" width="96" height="96"/>  | Hybrid Theory | Linkin Park | 2000 | Nu metal / Rap metal 
+| <img src="/images/fate_of_norns.jpg" alt="Image not found" width="96" height="96"/>  | Fate of Norns | Amon Amarth | 2004 | Melodic death metal  
 | <img src="/images/yeezus.jpg" alt="Image not found" width="96" height="96"/>  | Yeezus | Kanye West | 2013 | Experimental rap / Alternative rap  
 | <img src="/images/my_liver_will_handle_what_my_heart_cant.jpg" alt="Image not found" width="96" height="96"/>  | My Liver Will Handle What My Heart Can't | Suicideboys | 2015 | Shadow rap 
 | <img src="/images/the_fat_of_the_land.jpg" alt="Image not found" width="96" height="96"/>  | The Fat of the Land | Prodigy | 1997 | Electronpunk / Big beat
