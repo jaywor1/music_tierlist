@@ -7,7 +7,7 @@ My **subjective** tier list on albums/EPs.
 ### Newest album
 | Tier | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:----:|:--------:|:------------------:|:------------:|:----:|:-----:|
-| B | <img src="/images/fear_network.jpg" alt="Image not found" width="96" height="96"/>  | Fear Network | Ghostemane | 2019 | Industrial metal
+| C | <img src="/images/72_seasons.jpg" alt="Image not found" width="96" height="96"/>  | 72 Seasons | Metallica | 2023 | Heavy metal / Thrash metal
 
 
 ## Tier lists

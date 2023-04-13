@@ -1,6 +1,6 @@
 # Metal Tier List
 
-### Album/EP count: 22
+### Album/EP count: 23
 
 ### Authors count: 13
 
@@ -39,6 +39,7 @@
 ## C tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/72_seasons.jpg" alt="Image not found" width="96" height="96"/>  | 72 Seasons | Metallica | 2023 | Heavy metal / Thrash metal
 | <img src="/images/hybrid_theory.jpg" alt="Image not found" width="96" height="96"/>  | Hybrid Theory | Linkin Park | 2000 | Nu metal / Rap metal
 | <img src="/images/fate_of_norns.jpg" alt="Image not found" width="96" height="96"/>  | Fate of Norns | Amon Amarth | 2004 | Melodic death metal
 

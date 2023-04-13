@@ -1,6 +1,6 @@
 # Worldwide Tier List
 
-### Album/EP count: 57
+### Album/EP count: 58
 
 ### Authors count: 37
 
@@ -54,6 +54,7 @@
 ## C tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/72_seasons.jpg" alt="Image not found" width="96" height="96"/>  | 72 Seasons | Metallica | 2023 | Heavy metal / Thrash metal
 | <img src="/images/testing.jpg" alt="Image not found" width="96" height="96"/>  | TESTING | ASAP Rocky | 2018 | Experimental hip hop
 | <img src="/images/eternal_grey.jpg" alt="Image not found" width="96" height="96"/>  | Eternal Grey | Suicideboys | 2016 | Hororcore / Dark trap 
 | <img src="/images/hybrid_theory.jpg" alt="Image not found" width="96" height="96"/>  | Hybrid Theory | Linkin Park | 2000 | Nu metal / Rap metal 
