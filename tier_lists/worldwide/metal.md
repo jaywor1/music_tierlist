@@ -1,8 +1,8 @@
 # Metal Tier List
 
-### Album/EP count: 23
+### Album/EP count: 24
 
-### Authors count: 13
+### Authors count: 14
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -33,6 +33,7 @@
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/72_seasons.jpg" alt="Image not found" width="96" height="96"/>  | 72 Seasons | Metallica | 2023 | Heavy metal / Thrash metal
 | <img src="/images/made_in_japan.jpg" alt="Image not found" width="96" height="96"/>  | Made In Japan | Deep Purple | 1972 | Hard rock / Heavy metal
+| <img src="/images/around_the_fur.jpg" alt="Image not found" width="96" height="96"/>  | Around the Fur | Deftones | 1997 | Nu metal / Alternative metal
 | <img src="/images/liebe_ist_fur_alle_da.png" alt="Image not found" width="96" height="96"/>  | Liebe ist für alle da (Special Edition) | Rammstein | 2009 | Industrial metal / NDH
 | <img src="/images/fear_network.jpg" alt="Image not found" width="96" height="96"/>  | Fear Network | Ghostemane | 2019 | Industrial metal
 

@@ -2,12 +2,12 @@
 
 My **subjective** tier list on albums/EPs.
 
-### Album/EP count: 79
+### Album/EP count: 80
 
 ### Newest album
 | Tier | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:----:|:--------:|:------------------:|:------------:|:----:|:-----:|
-| B | <img src="/images/72_seasons.jpg" alt="Image not found" width="96" height="96"/>  | 72 Seasons | Metallica | 2023 | Heavy metal / Thrash metal
+| B | <img src="/images/around_the_fur.jpg" alt="Image not found" width="96" height="96"/>  | Around the Fur | Deftones | 1997 | Nu metal / Alternative metal
 
 
 ## Tier lists
