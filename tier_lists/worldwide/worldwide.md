@@ -40,12 +40,12 @@
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/72_seasons.jpg" alt="Image not found" width="96" height="96"/>  | 72 Seasons | Metallica | 2023 | Heavy metal / Thrash metal
 | <img src="/images/made_in_japan.jpg" alt="Image not found" width="96" height="96"/>  | Made In Japan | Deep Purple | 1972 | Hard rock / Heavy metal
+| <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock
 | <img src="/images/black_monk_time.jpg" alt="Image not found" width="96" height="96"/>  | Black Monk Time | Monks | 1966 | Garage rock / Proto-punk 
 | <img src="/images/liebe_ist_fur_alle_da.png" alt="Image not found" width="96" height="96"/>  | Liebe ist für alle da (Special Edition) | Rammstein | 2009 | Industrial metal / NDH 
 | <img src="/images/kid_a.jpg" alt="Image not found" width="96" height="96"/>  | Kid A | Radiohead | 2000 | Alternative hip hop / Progressive rap
 | <img src="/images/graduation.jpg" alt="Image not found" width="96" height="96"/>  | Graduation | Kanye West | 2007 | Progressive rap
 | <img src="/images/come_over_when_youre_sober_pt_1.jpg" alt="Image not found" width="96" height="96"/>  | Come Over When You're Sober, Pt. 1 | Lil Peep | 2017 | Emo rap / Pop funk
-| <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock
 | <img src="/images/hexada.jpg" alt="Image not found" width="96" height="96"/> | Ghostemane | Hexada | 2017 | Industrial hip hop / Hardcore rap
 | <img src="/images/fear_network.jpg" alt="Image not found" width="96" height="96"/>  | Fear Network | Ghostemane | 2019 | Industrial metal
 | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="96" height="96"/>  | So Beautiful or So What | Paul Simon | 2011 | Folk rock 
