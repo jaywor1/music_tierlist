@@ -2,12 +2,12 @@
 
 My **subjective** tier list on albums/EPs.
 
-### Album/EP count: 80
+### Album/EP count: 81
 
 ### Newest album
 | Tier | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:----:|:--------:|:------------------:|:------------:|:----:|:-----:|
-| B | <img src="/images/around_the_fur.jpg" alt="Image not found" width="96" height="96"/>  | Around the Fur | Deftones | 1997 | Nu metal / Alternative metal
+| S | <img src="/images/master_of_puppets.jpg" alt="Image not found" width="96" height="96"/>  | Master of Puppets | Metallica | 1986 | Thrash metal / Heavy metal
 
 
 ## Tier lists

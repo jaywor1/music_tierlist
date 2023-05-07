@@ -9,6 +9,7 @@
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/and_justice_for_all.jpg" alt="Image not found" width="96" height="96"/>  | ...And Justice for All | Metallica | 1988 | Thrash metal / Progressive metal
 | <img src="/images/ride_the_lightning.jpg" alt="Image not found" width="96" height="96"/>  | Ride The Lightning | Metallica | 1984 | Thrash metal
+| <img src="/images/master_of_puppets.jpg" alt="Image not found" width="96" height="96"/>  | Master of Puppets | Metallica | 1986 | Thrash metal / Heavy metal
 | <img src="/images/metallica.jpg" alt="Image not found" width="96" height="96"/>  | Metallica | Metallica | 1991 | Heavy metal
 | <img src="/images/mutter.jpg" alt="Image not found" width="96" height="96"/>  | Mutter | Rammstein | 2001 |  	Industrial metal / NDH
 | <img src="/images/perfect_strangers.jpg" alt="Image not found" width="96" height="96"/>  | Perfect Strangers | Deep Purple | 1984 | Hard rock / Heavy metal
