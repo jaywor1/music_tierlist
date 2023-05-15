@@ -2,12 +2,12 @@
 
 My **subjective** tier list on albums/EPs.
 
-### Album/EP count: 81
+### Album/EP count: 82
 
 ### Newest album
 | Tier | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:----:|:--------:|:------------------:|:------------:|:----:|:-----:|
-| S | <img src="/images/master_of_puppets.jpg" alt="Image not found" width="96" height="96"/>  | Master of Puppets | Metallica | 1986 | Thrash metal / Heavy metal
+| A | <img src="/images/twilight.jpg" alt="Image not found" width="96" height="96"/>  | Twilight | bôa | 2010 | Alternative rock
 
 
 ## Tier lists

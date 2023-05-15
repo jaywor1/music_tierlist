@@ -1,8 +1,8 @@
 # Worldwide Tier List
 
-### Album/EP count: 59
+### Album/EP count: 60
 
-### Authors count: 38
+### Authors count: 39
 
 ## S tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
@@ -35,6 +35,7 @@
 | <img src="/images/the_battle_of_los_angeles.jpg" alt="Image not found" width="96" height="96"/>  | The Battle of Los Angeles | Rage Against The Machine | 1999 | Funk metal / Nu metal
 | <img src="/images/noise.jpg" alt="Image not found" width="96" height="96"/>  | N / O / I / S / E | Ghostemane | 2018 | Industrial hip hop / Horrorcore
 | <img src="/images/anti_icon.jpg" alt="Image not found" width="96" height="96"/>  | ANTI-ICON | Ghostemane | 2020 | Hardcore punk / Rap metal
+| <img src="/images/twilight.jpg" alt="Image not found" width="96" height="96"/>  | Twilight | bôa | 2010 | Alternative rock
 
 ## B tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
