@@ -7,7 +7,7 @@ My **subjective** tier list on albums/EPs.
 ### Newest album
 | Tier | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:----:|:--------:|:------------------:|:------------:|:----:|:-----:|
-| A | <img src="/images/twilight.jpg" alt="Image not found" width="96" height="96"/>  | Twilight | bôa | 2010 | Alternative rock
+| A | <img src="/images/twilight.jpg" alt="Image not found" width="96" height="96"/>  | Twilight | bôa | 2001 | Alternative rock
 
 
 ## Tier lists

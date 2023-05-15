@@ -35,7 +35,7 @@
 | <img src="/images/the_battle_of_los_angeles.jpg" alt="Image not found" width="96" height="96"/>  | The Battle of Los Angeles | Rage Against The Machine | 1999 | Funk metal / Nu metal
 | <img src="/images/noise.jpg" alt="Image not found" width="96" height="96"/>  | N / O / I / S / E | Ghostemane | 2018 | Industrial hip hop / Horrorcore
 | <img src="/images/anti_icon.jpg" alt="Image not found" width="96" height="96"/>  | ANTI-ICON | Ghostemane | 2020 | Hardcore punk / Rap metal
-| <img src="/images/twilight.jpg" alt="Image not found" width="96" height="96"/>  | Twilight | bôa | 2010 | Alternative rock
+| <img src="/images/twilight.jpg" alt="Image not found" width="96" height="96"/>  | Twilight | bôa | 2001 | Alternative rock
 
 ## B tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |

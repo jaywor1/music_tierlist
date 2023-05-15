@@ -18,7 +18,7 @@
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/godsmack.jpg" alt="Image not found" width="96" height="96"/> | Godsmack | Godsmack | 1998 | Alternative metal / Hard rock
 | <img src="/images/sheer_heart_attack.jpg" alt="Image not found" width="96" height="96"/>  | Sheer Heart Attack | Queen | 1974 | Hard rock / Glam rock
-| <img src="/images/twilight.jpg" alt="Image not found" width="96" height="96"/>  | Twilight | bôa | 2010 | Alternative rock
+| <img src="/images/twilight.jpg" alt="Image not found" width="96" height="96"/>  | Twilight | bôa | 2001 | Alternative rock
 
 ## B tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
