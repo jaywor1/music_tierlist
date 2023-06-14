@@ -25,6 +25,7 @@
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/made_in_japan.jpg" alt="Image not found" width="96" height="96"/>  | Made In Japan | Deep Purple | 1972 | Hard rock / Heavy metal 
 | <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock 
+| <img src="/images/ancient_homies.jpg" alt="Image not found" width="96" height="96"/>  | Ancient Homies | Lespecial | 2020 | Indie rock
 | <img src="/images/black_monk_time.jpg" alt="Image not found" width="96" height="96"/>  | Black Monk Time | Monks | 1966 | Garage rock / Proto-punk
 | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="96" height="96"/>  | So Beautiful or So What | Paul Simon | 2011 | Folk rock 
 | <img src="/images/pretty_hate_machine.jpg" alt="Image not found" width="96" height="96"/>  | Pretty Hate Machine | Nine Inch Nails | 1989 | Industrial rock / Electronic rock
