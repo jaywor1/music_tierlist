@@ -7,7 +7,7 @@ My **subjective** tier list on albums/EPs.
 ### Newest album
 | Tier | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:----:|:--------:|:------------------:|:------------:|:----:|:-----:|
-| A | <img src="/images/ancient_homies.jpg" alt="Image not found" width="96" height="96"/>  | Ancient Homies | Lespecial | 2020 | Indie rock
+| A | <img src="/images/whatever_people_say_i_am_thats_what_i_am_not.jpg" alt="Image not found" width="96" height="96"/>  | Whatever People Say I Am, That's What I Am Not | Artctic Monkeys | 2006 | Indie rock
 
 
 ## Tier lists

@@ -19,12 +19,13 @@
 | <img src="/images/godsmack.jpg" alt="Image not found" width="96" height="96"/> | Godsmack | Godsmack | 1998 | Alternative metal / Hard rock
 | <img src="/images/sheer_heart_attack.jpg" alt="Image not found" width="96" height="96"/>  | Sheer Heart Attack | Queen | 1974 | Hard rock / Glam rock
 | <img src="/images/twilight.jpg" alt="Image not found" width="96" height="96"/>  | Twilight | bôa | 2001 | Alternative rock
+| <img src="/images/whatever_people_say_i_am_thats_what_i_am_not.jpg" alt="Image not found" width="96" height="96"/>  | Whatever People Say I Am, That's What I Am Not | Arctic Monkeys | 2006 | Indie rock
 
 ## B tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/made_in_japan.jpg" alt="Image not found" width="96" height="96"/>  | Made In Japan | Deep Purple | 1972 | Hard rock / Heavy metal 
-| <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock 
+| <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Arctic Monkeys | 2013 | Indie rock
 | <img src="/images/ancient_homies.jpg" alt="Image not found" width="96" height="96"/>  | Ancient Homies | Lespecial | 2020 | Indie rock
 | <img src="/images/black_monk_time.jpg" alt="Image not found" width="96" height="96"/>  | Black Monk Time | Monks | 1966 | Garage rock / Proto-punk
 | <img src="/images/so_beautiful_or_so_what.jpg" alt="Image not found" width="96" height="96"/>  | So Beautiful or So What | Paul Simon | 2011 | Folk rock 

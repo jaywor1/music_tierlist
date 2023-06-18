@@ -36,13 +36,14 @@
 | <img src="/images/noise.jpg" alt="Image not found" width="96" height="96"/>  | N / O / I / S / E | Ghostemane | 2018 | Industrial hip hop / Horrorcore
 | <img src="/images/anti_icon.jpg" alt="Image not found" width="96" height="96"/>  | ANTI-ICON | Ghostemane | 2020 | Hardcore punk / Rap metal
 | <img src="/images/twilight.jpg" alt="Image not found" width="96" height="96"/>  | Twilight | Bôa | 2001 | Alternative rock
+| <img src="/images/whatever_people_say_i_am_thats_what_i_am_not.jpg" alt="Image not found" width="96" height="96"/>  | Whatever People Say I Am, That's What I Am Not | Arctic Monkeys | 2006 | Indie rock
 
 ## B tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/72_seasons.jpg" alt="Image not found" width="96" height="96"/>  | 72 Seasons | Metallica | 2023 | Heavy metal / Thrash metal
 | <img src="/images/made_in_japan.jpg" alt="Image not found" width="96" height="96"/>  | Made In Japan | Deep Purple | 1972 | Hard rock / Heavy metal
-| <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Artctic Monkeys | 2013 | Indie rock
+| <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Arctic Monkeys | 2013 | Indie rock
 | <img src="/images/around_the_fur.jpg" alt="Image not found" width="96" height="96"/>  | Around the Fur | Deftones | 1997 | Nu metal / Alternative metal
 | <img src="/images/ancient_homies.jpg" alt="Image not found" width="96" height="96"/>  | Ancient Homies | Lespecial | 2020 | Indie rock
 | <img src="/images/black_monk_time.jpg" alt="Image not found" width="96" height="96"/>  | Black Monk Time | Monks | 1966 | Garage rock / Proto-punk 
