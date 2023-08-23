@@ -7,7 +7,7 @@ My **subjective** tier list on albums/EPs.
 ### Newest album
 | Tier | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:----:|:--------:|:------------------:|:------------:|:----:|:-----:|
-| A | <img src="/images/repentless.jpg" alt="Image not found" width="96" height="96"/> | Repentless | Slayer | 2015 | Thrash metal
+| B | <img src="/images/repentless.jpg" alt="Image not found" width="96" height="96"/> | Repentless | Slayer | 2015 | Thrash metal
 
 
 ## Tier lists
