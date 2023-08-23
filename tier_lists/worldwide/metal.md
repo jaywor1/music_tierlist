@@ -22,7 +22,6 @@
 ## A tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
-| <img src="/images/godsmack.jpg" alt="Image not found" width="96" height="96"/> | Godsmack | Godsmack | 1998 | Alternative metal / Hard rock
 | <img src="/images/reise_reise.jpg" alt="Image not found" width="96" height="96"/>  | REISE, REISE | Rammstein | 2004 | Industrial metal / NDH
 | <img src="/images/the_serenity_of_suffering.jpg" alt="Image not found" width="96" height="96"/>  | The Serenity of Suffering | Korn | 2016 | Nu metal / Alternative metal
 | <img src="/images/kill_em_all.jpg" alt="Image not found" width="96" height="96"/>  | Kill 'Em All | Metallica | 1983 | Thrash metal
@@ -32,6 +31,8 @@
 ## B tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/repentless.jpg" alt="Image not found" width="96" height="96"/> | Repentless | Slayer | 2015 | Thrash metal
+| <img src="/images/godsmack.jpg" alt="Image not found" width="96" height="96"/> | Godsmack | Godsmack | 1998 | Alternative metal / Hard rock
 | <img src="/images/72_seasons.jpg" alt="Image not found" width="96" height="96"/>  | 72 Seasons | Metallica | 2023 | Heavy metal / Thrash metal
 | <img src="/images/made_in_japan.jpg" alt="Image not found" width="96" height="96"/>  | Made In Japan | Deep Purple | 1972 | Hard rock / Heavy metal
 | <img src="/images/around_the_fur.jpg" alt="Image not found" width="96" height="96"/>  | Around the Fur | Deftones | 1997 | Nu metal / Alternative metal
