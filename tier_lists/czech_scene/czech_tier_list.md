@@ -10,7 +10,7 @@
 | <img src="/images/album_co_mi_zmenilo_zivot_rozmer.jpg" alt="Image not found" width="96" height="96"/>  | Album, co mi změnilo život (Další rozměr) | Hasan | 2022 | Alternative hip hop
 | <img src="/images/hasan.jpg" alt="Image not found" width="96" height="96"/> |  Hasan | Hasan | 2019 | Alternative hip hop
 | <img src="/images/restart.jpg" alt="Image not found" width="96" height="96"/> |  Restart |  Rest | 2018 | Hip hop
-| <img src="/images/corrida.jpg" alt="Image not found" width="96" height="96"/> |  Corrida |  Kabát | 2006 | Hip hop
+| <img src="/images/corrida.jpg" alt="Image not found" width="96" height="96"/> |  Corrida |  Kabát | 2006 | Metal
 
 ## A tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
