@@ -2,7 +2,7 @@
 
 My **subjective** tier list on albums/EPs.
 
-### Album/EP count: 83
+### Album/EP count: 84
 
 ### Newest album
 | Tier | Album Cover   |      Album/EP      |  Author | Year | Genre |

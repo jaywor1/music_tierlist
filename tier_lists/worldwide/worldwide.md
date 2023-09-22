@@ -1,6 +1,6 @@
 # Worldwide Tier List
 
-### Album/EP count: 60
+### Album/EP count: 61
 
 ### Authors count: 39
 
@@ -41,6 +41,7 @@
 ## B tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/south_of_heaven.jpg" alt="Image not found" width="96" height="96"/> | South Of Heaven | Slayer | 1988 | Thrash metal
 | <img src="/images/repentless.jpg" alt="Image not found" width="96" height="96"/> | Repentless | Slayer | 2015 | Thrash metal
 | <img src="/images/godsmack.jpg" alt="Image not found" width="96" height="96"/> | Godsmack | Godsmack | 1998 | Alternative metal / Hard rock
 | <img src="/images/72_seasons.jpg" alt="Image not found" width="96" height="96"/>  | 72 Seasons | Metallica | 2023 | Heavy metal / Thrash metal
