@@ -1,6 +1,6 @@
 # Rock Tier List
 
-### Album/EP count: 14
+### Album/EP count: 16
 
 ### Authors count: 13
 
@@ -16,6 +16,8 @@
 ## A tier
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/load.jpg" alt="Image not found" width="96" height="96"/>  | Load | Metallica | 1996 | Hard rock / Heavy metal
+| <img src="/images/reload.jpg" alt="Image not found" width="96" height="96"/>  | Reload | Metallica | 1997 | Hard rock / Heavy metal
 | <img src="/images/godsmack.jpg" alt="Image not found" width="96" height="96"/> | Godsmack | Godsmack | 1998 | Alternative metal / Hard rock
 | <img src="/images/sheer_heart_attack.jpg" alt="Image not found" width="96" height="96"/>  | Sheer Heart Attack | Queen | 1974 | Hard rock / Glam rock
 | <img src="/images/twilight.jpg" alt="Image not found" width="96" height="96"/>  | Twilight | bôa | 2001 | Alternative rock

@@ -2,12 +2,13 @@
 
 My **subjective** tier list on albums/EPs.
 
-### Album/EP count: 84
+### Album/EP count: 86
 
 ### Newest album
 | Tier | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:----:|:--------:|:------------------:|:------------:|:----:|:-----:|
-| B | <img src="/images/south_of_heaven.jpg" alt="Image not found" width="96" height="96"/> | South Of Heaven | Slayer | 1988 | Thrash metal
+|A| <img src="/images/load.jpg" alt="Image not found" width="96" height="96"/>  | Load | Metallica | 1996 | Hard rock / Heavy metal
+|A| <img src="/images/reload.jpg" alt="Image not found" width="96" height="96"/>  | Reload | Metallica | 1997 | Hard rock / Heavy metal
 
 
 ## Tier lists
