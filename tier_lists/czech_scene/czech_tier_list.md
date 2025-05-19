@@ -8,6 +8,7 @@
 
 | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:--------:|:------------------:|:------------:|:----:|:-----:|
+| <img src="/images/bratricku_zavirej_vratka.jpg" alt="Image not found" width="96" height="96"/>  | Bratříčku, zavírej vrátka | Karel Kryl | 1969 | Folk
 
 | <img src="/images/hasan.jpg" alt="Image not found" width="96" height="96"/> |  Hasan | Hasan | 2019 | Alternative hip hop
 

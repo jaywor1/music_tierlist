@@ -7,7 +7,7 @@ My **subjective** tier list on albums/EPs.
 ### Newest album
 | Tier | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:----:|:--------:|:------------------:|:------------:|:----:|:-----:|
-|A| <img src="/images/the_joshua_tree.jpg" alt="Image not found" width="96" height="96"/>  | The Joshua Tree | U2 | 1987 | Rock
+| S | <img src="/images/bratricku_zavirej_vratka.jpg" alt="Image not found" width="96" height="96"/>  | Bratříčku, zavírej vrátka | Karel Kryl | 1969 | Folk
 
 
 ## Tier lists
