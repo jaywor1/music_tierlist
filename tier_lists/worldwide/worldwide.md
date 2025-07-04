@@ -28,6 +28,7 @@
 |:--------:|:------------------:|:------------:|:----:|:-----:|
 | <img src="/images/sheer_heart_attack.jpg" alt="Image not found" width="96" height="96"/>  | Sheer Heart Attack | Queen | 1974 | Hard rock / Glam rock
 | <img src="/images/kill_em_all.jpg" alt="Image not found" width="96" height="96"/>  | Kill 'Em All | Metallica | 1983 | Tharsh metal / Heavy metal
+| A | <img src="/images/hardwired_to_self_destruct.jpg" alt="Image not found" width="96" height="96"/>  | Hardwired... to Self-Destruct | Metallica | 2016 | Heavy metal
 | <img src="/images/load.jpg" alt="Image not found" width="96" height="96"/>  | Load | Metallica | 1996 | Hard rock / Heavy metal
 | <img src="/images/reload.jpg" alt="Image not found" width="96" height="96"/>  | Reload | Metallica | 1997 | Hard rock / Heavy metal
 | <img src="/images/the_joshua_tree.jpg" alt="Image not found" width="96" height="96"/>  | The Joshua Tree | U2 | 1987 | Rock

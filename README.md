@@ -7,7 +7,7 @@ My **subjective** tier list on albums/EPs.
 ### Newest album
 | Tier | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:----:|:--------:|:------------------:|:------------:|:----:|:-----:|
-| S | <img src="/images/bratricku_zavirej_vratka.jpg" alt="Image not found" width="96" height="96"/>  | Bratříčku, zavírej vrátka | Karel Kryl | 1969 | Folk
+| A | <img src="/images/hardwired_to_self_destruct.jpg" alt="Image not found" width="96" height="96"/>  | Hardwired... to Self-Destruct | Metallica | 2016 | Heavy metal
 
 
 ## Tier lists
