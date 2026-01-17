@@ -38,6 +38,7 @@
 | <img src="/images/the_battle_of_los_angeles.jpg" alt="Image not found" width="96" height="96"/>  | The Battle of Los Angeles | Rage Against The Machine | 1999 | Funk metal / Nu metal
 | <img src="/images/noise.jpg" alt="Image not found" width="96" height="96"/>  | N / O / I / S / E | Ghostemane | 2018 | Industrial hip hop / Horrorcore
 | <img src="/images/anti_icon.jpg" alt="Image not found" width="96" height="96"/>  | ANTI-ICON | Ghostemane | 2020 | Hardcore punk / Rap metal
+| <img src="/images/fuck_u_skrillex_you_think_ur_andy_warhol_but_ur_not.jpg.jpg" alt="Image not found" width="96" height="96"/>  | Fuck U Skrillex You Think Ur Andy Warhol but Ur Not!! | Skrillex | 2025 | Dubstep / DnB
 | <img src="/images/twilight.jpg" alt="Image not found" width="96" height="96"/>  | Twilight | Bôa | 2001 | Alternative rock
 | <img src="/images/am.jpg" alt="Image not found" width="96" height="96"/>  | AM | Arctic Monkeys | 2013 | Indie rock
 | <img src="/images/whatever_people_say_i_am_thats_what_i_am_not.jpg" alt="Image not found" width="96" height="96"/>  | Whatever People Say I Am, That's What I Am Not | Arctic Monkeys | 2006 | Indie rock

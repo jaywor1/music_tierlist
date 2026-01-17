@@ -7,7 +7,7 @@ My **subjective** tier list on albums/EPs.
 ### Newest album
 | Tier | Album Cover   |      Album/EP      |  Author | Year | Genre |
 |:----:|:--------:|:------------------:|:------------:|:----:|:-----:|
-| A | <img src="/images/hardwired_to_self_destruct.jpg" alt="Image not found" width="96" height="96"/>  | Hardwired... to Self-Destruct | Metallica | 2016 | Heavy metal
+| A | <img src="/images/fuck_u_skrillex_you_think_ur_andy_warhol_but_ur_not.jpg.jpg" alt="Image not found" width="96" height="96"/>  | Fuck U Skrillex You Think Ur Andy Warhol but Ur Not!! | Skrillex | 2025 | Dubstep / DnB
 
 
 ## Tier lists
